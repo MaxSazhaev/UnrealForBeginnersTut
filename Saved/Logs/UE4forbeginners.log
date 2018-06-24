@@ -606,3 +606,100 @@ LogInit: Object subsystem initialized
 [2018.06.24-17.52.16:983][799]MaterialEditorStats: Vertex shader: 34 instructions
 [2018.06.24-17.52.16:983][799]MaterialEditorStats: Texture samplers: 3/16
 [2018.06.24-17.52.16:983][799]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.24-17.53.27:024][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.24-17.53.28:751][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter2" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.24-17.53.28:900][128]LogSavePackage: Save=136.61ms
+[2018.06.24-17.53.28:900][128]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter20E6AA86442650DC50F0C6C883C37F352.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter2.umap'
+[2018.06.24-17.53.28:901][128]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter2.umap
+[2018.06.24-17.53.28:927][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter2_BuiltData" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter2_BuiltData.uasset" SILENT=true
+[2018.06.24-17.53.29:117][128]LogSavePackage: Save=187.14ms
+[2018.06.24-17.53.29:117][128]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter2_BuiltData615E2A984503E03830FBDC9AA5CACE9C.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter2_BuiltData.uasset'
+[2018.06.24-17.53.29:119][128]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter2_BuiltData.uasset
+[2018.06.24-18.00.45:787][867]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/maxsa/Desktop/Models _ Textures/Terrain/Dirt_D.jpg)
+[2018.06.24-18.00.45:841][867]LogTexture: Display: Building textures: Dirt_D (AutoDXT, 1024X1024)
+[2018.06.24-18.00.47:139][867]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/maxsa/Desktop/Models _ Textures/Terrain/Dirt_N.jpg)
+[2018.06.24-18.00.47:250][867]LogTexture: Display: Building textures: Dirt_N (BC5, 1024X1024)
+[2018.06.24-18.00.47:430][867]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/maxsa/Desktop/Models _ Textures/Terrain/Dirt_R.jpg)
+[2018.06.24-18.00.47:455][867]LogTexture: Display: Building textures: Dirt_R (AutoDXT, 1024X1024)
+[2018.06.24-18.00.47:653][867]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/maxsa/Desktop/Models _ Textures/Terrain/Grass_D.jpg)
+[2018.06.24-18.00.47:723][867]LogTexture: Display: Building textures: Grass_D (AutoDXT, 1024X1024)
+[2018.06.24-18.00.49:082][867]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/maxsa/Desktop/Models _ Textures/Terrain/Grass_N.jpg)
+[2018.06.24-18.00.49:166][867]LogTexture: Display: Building textures: Grass_N (BC5, 1024X1024)
+[2018.06.24-18.00.49:352][867]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/maxsa/Desktop/Models _ Textures/Terrain/Grass_R.jpg)
+[2018.06.24-18.00.49:384][867]LogTexture: Display: Building textures: Grass_R (AutoDXT, 1024X1024)
+[2018.06.24-18.00.50:157][867]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/maxsa/Desktop/Models _ Textures/Terrain/Grass2_D.jpg)
+[2018.06.24-18.00.50:233][867]LogTexture: Display: Building textures: Grass2_D (AutoDXT, 1024X1024)
+[2018.06.24-18.00.51:599][867]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/maxsa/Desktop/Models _ Textures/Terrain/Grass2_N.jpg)
+[2018.06.24-18.00.51:684][867]LogTexture: Display: Building textures: Grass2_N (BC5, 1024X1024)
+[2018.06.24-18.00.51:873][867]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/maxsa/Desktop/Models _ Textures/Terrain/Grass2_R.jpg)
+[2018.06.24-18.00.51:910][867]LogTexture: Display: Building textures: Grass2_R (AutoDXT, 1024X1024)
+[2018.06.24-18.00.52:399][867]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/maxsa/Desktop/Models _ Textures/Terrain/RockTerrain_D.jpg)
+[2018.06.24-18.00.52:550][867]LogTexture: Display: Building textures: RockTerrain_D (AutoDXT, 2048X2048)
+[2018.06.24-18.00.58:000][867]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/maxsa/Desktop/Models _ Textures/Terrain/RockTerrain_N.jpg)
+[2018.06.24-18.00.58:087][867]LogTexture: Display: Building textures: RockTerrain_N (BC5, 1024X1024)
+[2018.06.24-18.00.58:279][867]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/maxsa/Desktop/Models _ Textures/Terrain/RockTerrain_R.jpg)
+[2018.06.24-18.00.58:394][867]LogTexture: Display: Building textures: RockTerrain_R (AutoDXT, 2048X2048)
+[2018.06.24-18.01.20:862][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter2" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.24-18.01.21:015][267]LogSavePackage: Save=135.66ms
+[2018.06.24-18.01.21:015][267]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter2BD6D611A4BAC9C13B62D78B16F4E150D.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter2.umap'
+[2018.06.24-18.01.21:017][267]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter2.umap
+[2018.06.24-18.01.21:040][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter2_BuiltData" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter2_BuiltData.uasset" SILENT=true
+[2018.06.24-18.01.21:239][267]LogSavePackage: Save=184.13ms
+[2018.06.24-18.01.21:240][267]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter2_BuiltData334D790644AFA374C37E2484B786D212.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter2_BuiltData.uasset'
+[2018.06.24-18.01.21:242][267]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter2_BuiltData.uasset
+[2018.06.24-18.01.26:545][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Dirt_D" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Dirt_D.uasset" SILENT=true
+[2018.06.24-18.01.26:698][867]LogSavePackage: Save=151.03ms
+[2018.06.24-18.01.26:698][867]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Dirt_D8226F6724DA1F781EDC472982010A1E9.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Dirt_D.uasset'
+[2018.06.24-18.01.26:700][867]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Dirt_D.uasset
+[2018.06.24-18.01.26:710][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Dirt_N" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Dirt_N.uasset" SILENT=true
+[2018.06.24-18.01.26:926][867]LogSavePackage: Save=214.42ms
+[2018.06.24-18.01.26:926][867]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Dirt_N8E59C71048B0B01D8EE13D9784B325FF.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Dirt_N.uasset'
+[2018.06.24-18.01.26:928][867]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Dirt_N.uasset
+[2018.06.24-18.01.26:939][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Dirt_R" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Dirt_R.uasset" SILENT=true
+[2018.06.24-18.01.27:004][867]LogSavePackage: Save=63.38ms
+[2018.06.24-18.01.27:004][867]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Dirt_RE29A8365457DE6E0371E46936137F1C9.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Dirt_R.uasset'
+[2018.06.24-18.01.27:006][867]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Dirt_R.uasset
+[2018.06.24-18.01.27:015][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass2_D" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Grass2_D.uasset" SILENT=true
+[2018.06.24-18.01.27:244][867]LogSavePackage: Save=226.52ms
+[2018.06.24-18.01.27:244][867]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Grass2_D0D74DD0B47A7805FB545BB9514ED1010.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Grass2_D.uasset'
+[2018.06.24-18.01.27:246][867]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Grass2_D.uasset
+[2018.06.24-18.01.27:255][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass2_N" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Grass2_N.uasset" SILENT=true
+[2018.06.24-18.01.27:497][867]LogSavePackage: Save=239.15ms
+[2018.06.24-18.01.27:497][867]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Grass2_ND6AC33234D12133AF2A2E7AC908CD8BC.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Grass2_N.uasset'
+[2018.06.24-18.01.27:499][867]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Grass2_N.uasset
+[2018.06.24-18.01.27:509][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass2_R" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Grass2_R.uasset" SILENT=true
+[2018.06.24-18.01.27:619][867]LogSavePackage: Save=108.47ms
+[2018.06.24-18.01.27:619][867]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Grass2_RDC7F807040D4121EF769A4A02D35BB97.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Grass2_R.uasset'
+[2018.06.24-18.01.27:622][867]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Grass2_R.uasset
+[2018.06.24-18.01.27:632][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass_D" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Grass_D.uasset" SILENT=true
+[2018.06.24-18.01.27:851][867]LogSavePackage: Save=218.18ms
+[2018.06.24-18.01.27:851][867]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Grass_D2F2A814F41297BB21BC94CA4E9CA49ED.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Grass_D.uasset'
+[2018.06.24-18.01.27:854][867]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Grass_D.uasset
+[2018.06.24-18.01.27:863][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass_N" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Grass_N.uasset" SILENT=true
+[2018.06.24-18.01.28:094][867]LogSavePackage: Save=228.91ms
+[2018.06.24-18.01.28:094][867]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Grass_N2F8402F445CACE848EFB46AA2AAA66EF.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Grass_N.uasset'
+[2018.06.24-18.01.28:096][867]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Grass_N.uasset
+[2018.06.24-18.01.28:106][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass_R" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Grass_R.uasset" SILENT=true
+[2018.06.24-18.01.28:218][867]LogSavePackage: Save=110.45ms
+[2018.06.24-18.01.28:218][867]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Grass_RA3A5044F4ACB3A0A4CD9AAA54B1F10E0.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Grass_R.uasset'
+[2018.06.24-18.01.28:220][867]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Grass_R.uasset
+[2018.06.24-18.01.28:230][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/RockTerrain_D" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/RockTerrain_D.uasset" SILENT=true
+[2018.06.24-18.01.28:878][867]LogSavePackage: Save=646.09ms
+[2018.06.24-18.01.28:878][867]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/RockTerrain_D5D8C256941D4CDF3C49D8D91FCDD25A2.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/RockTerrain_D.uasset'
+[2018.06.24-18.01.28:880][867]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/RockTerrain_D.uasset
+[2018.06.24-18.01.28:890][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/RockTerrain_N" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/RockTerrain_N.uasset" SILENT=true
+[2018.06.24-18.01.29:124][867]LogSavePackage: Save=231.87ms
+[2018.06.24-18.01.29:124][867]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/RockTerrain_NED519AC344C45FFBFE83579EC5148738.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/RockTerrain_N.uasset'
+[2018.06.24-18.01.29:126][867]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/RockTerrain_N.uasset
+[2018.06.24-18.01.29:141][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/RockTerrain_R" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/RockTerrain_R.uasset" SILENT=true
+[2018.06.24-18.01.29:499][867]LogSavePackage: Save=356.50ms
+[2018.06.24-18.01.29:500][867]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/RockTerrain_RC0C5E2EB4909E57066267598D9DD1BD6.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/RockTerrain_R.uasset'
+[2018.06.24-18.01.29:502][867]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/RockTerrain_R.uasset
+[2018.06.24-18.01.47:557][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter2" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.24-18.01.47:702][946]LogSavePackage: Save=133.05ms
+[2018.06.24-18.01.47:702][946]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter23A503FC346032745A4A751BDC039BD48.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter2.umap'
+[2018.06.24-18.01.47:703][946]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter2.umap
+[2018.06.24-18.01.47:727][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter2_BuiltData" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter2_BuiltData.uasset" SILENT=true
+[2018.06.24-18.01.47:914][946]LogSavePackage: Save=183.71ms
+[2018.06.24-18.01.47:914][946]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter2_BuiltDataD02E69CB4D7B6C56C6A6F4862E1A6D83.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter2_BuiltData.uasset'
+[2018.06.24-18.01.47:916][946]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter2_BuiltData.uasset
