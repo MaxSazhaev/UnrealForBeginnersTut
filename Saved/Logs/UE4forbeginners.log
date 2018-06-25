@@ -614,3 +614,297 @@ LogInit: Object subsystem initialized
 [2018.06.25-17.54.38:580][861]LogShaderCompilers: Display: Shaders left to compile 2
 [2018.06.25-17.54.38:748][863]LogShaderCompilers: Display: Shaders left to compile 1
 [2018.06.25-17.54.47:604][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.25-17.56.54:057][959]LogMaterial: Missing cached shader map for material M_LandscapePractice, compiling. 
+[2018.06.25-17.56.54:099][959]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.25-17.56.54:099][959]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.25-17.56.54:099][959]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.25-17.56.54:149][959]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.25-17.56.54:152][959]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.06.25-17.56.54:184][959]LogMaterial: Missing cached shader map for material M_LandscapePractice, compiling. 
+[2018.06.25-17.56.54:266][960]LogSlate: Took 0.013008 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.25-17.56.54:535][971]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.06.25-17.56.54:542][972]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.06.25-17.56.54:576][976]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.25-17.56.54:731][979]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.25-17.56.54:826][985]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.25-17.56.54:875][986]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.25-17.56.54:968][994]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.25-17.56.55:054][996]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.25-17.56.55:270][  7]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.25-17.56.55:270][  7]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.25-17.56.55:308][  8]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.25-17.56.55:358][ 12]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.25-17.56.55:440][ 14]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.25-17.56.55:490][ 20]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.25-17.56.55:690][ 24]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.25-17.56.55:729][ 27]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.25-17.56.55:842][ 34]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.25-17.56.56:035][ 41]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.25-17.56.56:079][ 44]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.25-17.56.56:187][ 48]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.25-17.56.56:423][ 61]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.06.25-17.56.56:423][ 61]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.06.25-17.56.56:423][ 61]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.06.25-17.56.56:423][ 61]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.25-17.56.56:423][ 61]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.25-17.57.29:885][997]LogMaterial: Missing cached shader map for material M_LandscapePractice, compiling. 
+[2018.06.25-17.57.29:899][998]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.25-17.57.29:899][998]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.25-17.57.29:899][998]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.25-17.57.30:376][ 32]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.25-17.57.30:403][ 35]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.25-17.57.30:453][ 41]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.25-17.57.30:588][ 44]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.25-17.57.30:604][ 46]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.25-17.57.30:622][ 48]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.25-17.57.30:780][ 56]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.25-17.57.30:953][ 59]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.25-17.57.30:953][ 59]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.25-17.57.31:087][ 60]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.25-17.57.31:260][ 61]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.25-17.57.31:326][ 68]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.25-17.57.31:369][ 73]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.25-17.57.31:712][ 93]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.06.25-17.57.31:712][ 93]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.06.25-17.57.31:712][ 93]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.06.25-17.57.31:712][ 93]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.25-17.57.31:712][ 93]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.25-17.57.42:101][315]LogMaterial: Missing cached shader map for material M_LandscapePractice, compiling. 
+[2018.06.25-17.57.42:108][315]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.25-17.57.42:108][315]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.25-17.57.42:108][315]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.25-17.57.42:109][315]LogMaterial: Missing cached shader map for material M_LandscapePractice, compiling. 
+[2018.06.25-17.57.42:331][321]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.25-17.57.42:339][322]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.25-17.57.42:373][325]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.25-17.57.42:534][329]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.25-17.57.42:556][331]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.25-17.57.42:579][334]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.25-17.57.42:709][337]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.25-17.57.42:732][340]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.25-17.57.42:750][342]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.25-17.57.42:915][348]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.25-17.57.43:087][353]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.25-17.57.43:103][355]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.25-17.57.43:128][357]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.25-17.57.43:315][361]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.25-17.57.43:428][364]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.25-17.57.43:467][366]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.25-17.57.43:811][395]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.06.25-17.57.43:811][395]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.06.25-17.57.43:811][395]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.06.25-17.57.43:811][395]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.25-17.57.43:811][395]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.25-17.58.02:531][608]LogMaterial: Missing cached shader map for material M_LandscapePractice, compiling. 
+[2018.06.25-17.58.02:544][609]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.25-17.58.02:544][609]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.25-17.58.02:544][609]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.25-17.58.02:759][616]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.25-17.58.02:791][620]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.25-17.58.02:815][622]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.25-17.58.02:921][625]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.25-17.58.02:977][631]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.25-17.58.03:015][634]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.25-17.58.03:119][641]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.25-17.58.03:315][645]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.25-17.58.03:353][649]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.25-17.58.03:419][654]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.25-17.58.03:614][660]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.25-17.58.03:723][666]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.25-17.58.03:757][668]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.25-17.58.03:914][670]LogMaterial: Missing cached shader map for material M_LandscapePractice, compiling. 
+[2018.06.25-17.58.03:920][670]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.25-17.58.03:923][670]LogMaterial: Missing cached shader map for material M_LandscapePractice, compiling. 
+[2018.06.25-17.58.03:946][672]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.25-17.58.04:042][675]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.25-17.58.04:122][676]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.25-17.58.04:147][678]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.25-17.58.04:249][683]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.25-17.58.04:328][686]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.25-17.58.04:335][687]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.25-17.58.04:441][695]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.25-17.58.04:522][697]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.25-17.58.04:529][698]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.25-17.58.04:725][703]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.25-17.58.04:781][707]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.25-17.58.04:876][712]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.25-17.58.05:126][720]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.25-17.58.05:134][721]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.25-17.58.05:230][725]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.25-17.58.05:494][736]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.06.25-17.58.05:494][736]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.06.25-17.58.05:494][736]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.06.25-17.58.05:494][736]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.25-17.58.05:494][736]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.25-17.58.19:971][445]LogMaterial: Missing cached shader map for material M_LandscapePractice, compiling. 
+[2018.06.25-17.58.19:984][446]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.25-17.58.19:984][446]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.25-17.58.19:984][446]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.25-17.58.20:036][452]LogMaterialEditor: Saving and Compiling material M_LandscapePractice
+[2018.06.25-17.58.20:509][452]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.25-17.58.20:509][452]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.25-17.58.20:509][452]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.25-17.58.20:509][452]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.25-17.58.20:509][452]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.25-17.58.20:509][452]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.25-17.58.20:522][452]LogMaterial: Missing cached shader map for material M_LandscapePractice, compiling. 
+[2018.06.25-17.58.20:565][452]LogMaterial: Missing cached shader map for material M_LandscapePractice, compiling. 
+[2018.06.25-17.58.20:581][452]LogMaterial: Missing cached shader map for material M_LandscapePractice, compiling. 
+[2018.06.25-17.58.20:592][452]LogMaterial: Missing cached shader map for material M_LandscapePractice, compiling. 
+[2018.06.25-17.58.20:623][452]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_LandscapePractice, compiling. 
+[2018.06.25-17.58.22:040][452]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.06.25-17.58.22:040][452]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.06.25-17.58.22:041][452]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.06.25-17.58.22:041][452]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.06.25-17.58.22:041][452]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.06.25-17.58.22:041][452]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.06.25-17.58.22:041][452]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.06.25-17.58.22:041][452]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.06.25-17.58.22:041][452]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.06.25-17.58.22:041][452]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.06.25-17.58.22:041][452]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.06.25-17.58.22:041][452]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.06.25-17.58.22:041][452]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.06.25-17.58.22:041][452]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.06.25-17.58.22:041][452]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.06.25-17.58.22:041][452]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.06.25-17.58.22:041][452]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.06.25-17.58.22:041][452]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.06.25-17.58.22:041][452]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.06.25-17.58.22:041][452]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.06.25-17.58.22:045][452]TextureStreamingBuild: Display: Compiling optional shaders took 1.427 seconds.
+[2018.06.25-17.58.24:267][452]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.06.25-17.58.24:268][452]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.06.25-17.58.24:268][452]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.25-17.58.24:290][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_LandscapePractice" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_LandscapePractice.uasset" SILENT=true
+[2018.06.25-17.58.24:321][452]LogSavePackage: Save=18.09ms
+[2018.06.25-17.58.24:321][452]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/M_LandscapePractice6A20741741FF8BDC0CECCB94CC366285.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_LandscapePractice.uasset'
+[2018.06.25-17.58.24:323][452]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_LandscapePractice.uasset
+[2018.06.25-17.58.24:329][452]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.06.25-17.58.24:329][452]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.06.25-17.58.24:329][452]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.06.25-17.58.24:329][452]MaterialEditorStats: Texture samplers: 5/16
+[2018.06.25-17.58.24:329][452]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.25-17.58.25:956][454]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.25-17.58.44:041][557]MapCheck: New page: Map Check
+[2018.06.25-17.58.44:146][557]LightingResults: New page: Lighting Build - Jun 25, 2018, 9:58:44 AM
+[2018.06.25-17.58.44:456][557]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.06.25-17.58.44:628][557]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.06.25-17.58.44:641][557]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.06.25-17.58.45:665][557]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.06.25-17.58.45:665][557]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10080
+[2018.06.25-17.58.48:011][557]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2018.06.25-17.58.48:016][557]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.06.25-17.58.48:016][557]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.06.25-17.58.48:016][557]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.06.25-17.58.48:016][557]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.06.25-17.58.48:016][557]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.06.25-17.58.48:279][557]LogEditorBuildUtils: Build time 0:04
+[2018.06.25-17.58.48:317][558]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. 
+[2018.06.25-17.58.48:334][558]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. 
+[2018.06.25-17.58.48:337][558]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.25-17.58.48:344][558]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.25-17.59.10:626][351]Job is a success!
+[2018.06.25-17.59.10:871][352]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.146s
+[2018.06.25-17.59.10:872][352]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2018.06.25-17.59.10:872][352]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.4Mb (trimmed 1.3Mb due to 0.010000 MinBrickError)
+[2018.06.25-17.59.10:872][352]LogVolumetricLightmapImport:      Bricks at Level
+[2018.06.25-17.59.10:872][352]LogVolumetricLightmapImport:          0: 1.1% covering 100.0% of volume
+[2018.06.25-17.59.10:872][352]LogVolumetricLightmapImport:          1: 12.3% covering 17.8% of volume
+[2018.06.25-17.59.10:872][352]LogVolumetricLightmapImport:          2: 86.6% covering 2.0% of volume
+[2018.06.25-17.59.10:920][352]LogMaterial: Warning: Material /Game/Materials/M_LandscapePractice.M_LandscapePractice needed to have new flag set bUsedWithStaticLighting !
+[2018.06.25-17.59.10:920][352]LogMaterial: Warning: Material /Engine/Transient.M_LandscapePractice needed to have new flag set bUsedWithStaticLighting !
+[2018.06.25-17.59.10:922][352]LogMaterial: Missing cached shader map for material M_LandscapePractice, compiling. 
+[2018.06.25-17.59.10:931][352]LogMaterial: Missing cached shader map for material M_LandscapePractice, compiling. 
+[2018.06.25-17.59.10:946][352]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.25-17.59.10:946][352]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.25-17.59.10:946][352]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.25-17.59.10:948][352]LogMaterial: Missing cached shader map for material M_LandscapePractice, compiling. 
+[2018.06.25-17.59.11:266][352]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2018.06.25-17.59.11:266][352]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2018.06.25-17.59.11:314][352]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X128)
+[2018.06.25-17.59.11:377][352]Lightmass on MAX-PC: 20.2 sec total, 304 ms importing, 119 ms setup, 2.55 sec photons, 17.1 sec processing, 0 ms extra exporting [65/65 mappings]. Threads: 1:08 min total, 10.4 sec processing.
+[2018.06.25-17.59.11:449][352]LogStaticLightingSystem: Illumination: 27.3 sec (284 ms encoding lightmaps, 45 ms encoding shadowmaps)
+[2018.06.25-17.59.11:449][352]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.06.25-17.59.11:449][352]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 1 textures
+[2018.06.25-17.59.12:017][352]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.06.25-17.59.12:017][352]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.06.25-17.59.12:017][352]LogShaderCompilers: Display: Shaders left to compile 104
+[2018.06.25-17.59.12:017][352]LogShaderCompilers: Display: Shaders left to compile 103
+[2018.06.25-17.59.12:017][352]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.06.25-17.59.12:017][352]LogShaderCompilers: Display: Shaders left to compile 101
+[2018.06.25-17.59.12:017][352]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.06.25-17.59.12:028][352]DumpUnbuiltLightIteractions
+[2018.06.25-17.59.12:028][352]Lights with unbuilt interactions: 0
+[2018.06.25-17.59.12:028][352]
+[2018.06.25-17.59.12:028][352]Primitives with unbuilt interactions: 0
+[2018.06.25-17.59.19:572][352]LogShaderCompilers: Display: Shaders left to compile 99
+[2018.06.25-17.59.19:572][352]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.06.25-17.59.19:572][352]LogShaderCompilers: Display: Shaders left to compile 97
+[2018.06.25-17.59.19:572][352]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.06.25-17.59.19:572][352]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.06.25-17.59.19:572][352]LogShaderCompilers: Display: Shaders left to compile 94
+[2018.06.25-17.59.19:572][352]LogShaderCompilers: Display: Shaders left to compile 93
+[2018.06.25-17.59.19:572][352]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.06.25-17.59.19:572][352]LogShaderCompilers: Display: Shaders left to compile 91
+[2018.06.25-17.59.19:572][352]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.06.25-17.59.19:572][352]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.06.25-17.59.19:572][352]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.06.25-17.59.19:572][352]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.06.25-17.59.19:572][352]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.06.25-17.59.19:572][352]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.25-17.59.19:572][352]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.06.25-17.59.19:572][352]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.25-17.59.19:572][352]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.25-17.59.19:663][353]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.06.25-17.59.19:664][353]MapCheck: New page: Level_Chapter2 - Jun 25, 2018, 9:59:19 AM
+[2018.06.25-17.59.19:736][353]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.017ms to complete.
+[2018.06.25-17.59.19:737][353]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.06.25-17.59.19:737][353]MaterialEditorStats: Base pass shader with Surface Lightmap: 126 instructions
+[2018.06.25-17.59.19:737][353]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.06.25-17.59.19:737][353]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.06.25-17.59.19:737][353]MaterialEditorStats: Texture samplers: 5/16
+[2018.06.25-17.59.19:737][353]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.25-17.59.23:249][764]LogSlate: Window 'Message Log' being destroyed
+[2018.06.25-17.59.23:252][764]LogSlate: Window 'Message Log' being destroyed
+[2018.06.25-18.00.01:682][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_LandscapePractice" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_LandscapePractice.uasset" SILENT=true
+[2018.06.25-18.00.01:693][273]LogSavePackage: Save=7.08ms
+[2018.06.25-18.00.01:693][273]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/M_LandscapePracticeE0D3F7A442A292AF42AB15A205DBEEE8.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_LandscapePractice.uasset'
+[2018.06.25-18.00.01:698][273]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_LandscapePractice.uasset
+[2018.06.25-18.01.12:080][821]LogRenderer: Reallocating scene render targets to support 1336x924 Format 10 NumSamples 1 (Frame:1).
+[2018.06.25-18.01.27:066][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.25-18.02.28:441][397]LogSavePackage: Save=153.79ms
+[2018.06.25-18.02.28:442][397]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter2_Auto12C6E75194AB0DB44BBCE44928E7878FC.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Autosaves/Game/Maps/Level_Chapter2_Auto1.umap'
+[2018.06.25-18.02.28:443][397]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Autosaves/Game/Maps/Level_Chapter2_Auto1.umap
+[2018.06.25-18.02.28:456][397]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_Chapter2' took 0.219
+[2018.06.25-18.02.28:456][397]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.219
+[2018.06.25-18.02.28:459][397]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Level_Chapter2_BuiltData] ([1] browsable assets)...
+[2018.06.25-18.02.28:459][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Level_Chapter2_BuiltData]
+[2018.06.25-18.02.28:501][397]LogSavePackage: Save=12.16ms
+[2018.06.25-18.02.28:501][397]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter2_BuiltData_Auto1B302BB714348EB7688800099CB9D26BE.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Autosaves/Game/Maps/Level_Chapter2_BuiltData_Auto1.uasset'
+[2018.06.25-18.02.28:502][397]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Autosaves/Game/Maps/Level_Chapter2_BuiltData_Auto1.uasset
+[2018.06.25-18.02.28:502][397]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_LandscapePractice_Inst] ([1] browsable assets)...
+[2018.06.25-18.02.28:514][397]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Materials/M_LandscapePractice_Inst.M_LandscapePractice_Inst]
+[2018.06.25-18.02.28:514][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_LandscapePractice_Inst]
+[2018.06.25-18.02.28:527][397]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_LandscapePractice_Inst, compiling. 
+[2018.06.25-18.02.28:903][397]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.25-18.02.28:907][397]TextureStreamingBuild: Display: Compiling optional shaders took 0.383 seconds.
+[2018.06.25-18.02.28:958][397]LogSavePackage: Save=16.72ms
+[2018.06.25-18.02.28:958][397]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/M_LandscapePractice_Inst_Auto17BF9C4C84C70A5131C5B25B7BC5791D4.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Autosaves/Game/Materials/M_LandscapePractice_Inst_Auto1.uasset'
+[2018.06.25-18.02.28:959][397]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Autosaves/Game/Materials/M_LandscapePractice_Inst_Auto1.uasset
+[2018.06.25-18.02.28:959][397]LogFileHelpers: Auto-saving content packages took 0.501
+[2018.06.25-18.02.48:287][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_LandscapePractice_Inst" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_LandscapePractice_Inst.uasset" SILENT=true
+[2018.06.25-18.02.48:303][313]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_LandscapePractice_Inst, compiling. 
+[2018.06.25-18.02.48:470][313]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.25-18.02.48:473][313]TextureStreamingBuild: Display: Compiling optional shaders took 0.173 seconds.
+[2018.06.25-18.02.48:501][313]LogSavePackage: Save=15.68ms
+[2018.06.25-18.02.48:501][313]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/M_LandscapePractice_InstAB238C844881EF0D1F1577BED5F4B9C9.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_LandscapePractice_Inst.uasset'
+[2018.06.25-18.02.48:506][313]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_LandscapePractice_Inst.uasset
+[2018.06.25-18.05.39:254][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter2" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.25-18.05.39:414][223]LogSavePackage: Save=145.95ms
+[2018.06.25-18.05.39:414][223]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter28B20E54C41E8B76E9AC6378BF52532EA.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter2.umap'
+[2018.06.25-18.05.39:419][223]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter2.umap
+[2018.06.25-18.05.39:443][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter2_BuiltData" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter2_BuiltData.uasset" SILENT=true
+[2018.06.25-18.05.39:481][223]LogSavePackage: Save=33.98ms
+[2018.06.25-18.05.39:481][223]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter2_BuiltData680AA0674F5E6D15FB1408B58A9E2600.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter2_BuiltData.uasset'
+[2018.06.25-18.05.39:484][223]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter2_BuiltData.uasset
