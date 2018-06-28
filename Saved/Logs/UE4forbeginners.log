@@ -2387,3 +2387,91 @@ LogInit: Object subsystem initialized
 [2018.06.27-23.59.32:661][318]LogSavePackage: Save=43.34ms
 [2018.06.27-23.59.32:661][318]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter3_BuiltDataB45207454BD44CBCA24B22B4D6B0CD69.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3_BuiltData.uasset'
 [2018.06.27-23.59.32:662][318]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3_BuiltData.uasset
+[2018.06.28-00.02.20:011][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.02.30:959][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.02.31:059][195]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-00.02.31:074][195]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-00.02.31:074][195]PIE: New page: PIE session: Level_Chapter3 (Jun 27, 2018, 4:02:31 PM)
+[2018.06.28-00.02.31:074][195]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter3
+[2018.06.28-00.02.31:091][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017561s)
+[2018.06.28-00.02.31:092][195]LogAIModule: Creating AISystem for world Level_Chapter3
+[2018.06.28-00.02.31:092][195]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2018.06.28-00.02.31:092][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter3.Level_Chapter3 to /Game/Maps/UEDPIE_0_Level_Chapter3.Level_Chapter3 (0.018548s)
+[2018.06.28-00.02.31:120][195]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-00.02.31:132][195]LogInit: FAudioDevice initialized.
+[2018.06.28-00.02.31:180][195]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.06.28-00.02.31:194][195]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter3.Level_Chapter3 up for play (max tick rate 0) at 2018.06.27-20.02.31
+[2018.06.28-00.02.31:194][195]LogWorld: Bringing up level for play took: 0.003286
+[2018.06.28-00.02.31:246][195]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.06.28-00.02.31:290][195]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter3 1.055
+[2018.06.28-00.02.57:652][325]LogActorFactory: Actor Factory created Cabin
+[2018.06.28-00.03.21:997][189]LogActorFactory: Actor Factory created Cabin
+[2018.06.28-00.03.50:934][526]LogSlate: Took 0.013319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.28-00.04.23:654][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.04.24:787][279]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.06.28-00.05.53:732][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.05.55:084][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin)
+[2018.06.28-00.06.09:748][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.06.40:784][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.06.56:899][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.07.31:872][ 67]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 32X32)
+[2018.06.28-00.07.41:576][ 66]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 32X32)
+[2018.06.28-00.08.27:319][995]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-00.09.29:271][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.09.29:347][932]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-00.09.29:362][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-00.09.29:362][932]PIE: New page: PIE session: Level_Chapter3 (Jun 27, 2018, 4:09:29 PM)
+[2018.06.28-00.09.29:362][932]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter3
+[2018.06.28-00.09.29:373][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010317s)
+[2018.06.28-00.09.29:374][932]LogAIModule: Creating AISystem for world Level_Chapter3
+[2018.06.28-00.09.29:374][932]LogPlayLevel: PIE: World Init took: (0.000933s)
+[2018.06.28-00.09.29:374][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter3.Level_Chapter3 to /Game/Maps/UEDPIE_0_Level_Chapter3.Level_Chapter3 (0.011427s)
+[2018.06.28-00.09.29:442][932]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-00.09.29:454][932]LogInit: FAudioDevice initialized.
+[2018.06.28-00.09.29:485][932]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.06.28-00.09.29:488][932]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter3.Level_Chapter3 up for play (max tick rate 0) at 2018.06.27-20.09.29
+[2018.06.28-00.09.29:488][932]LogWorld: Bringing up level for play took: 0.002777
+[2018.06.28-00.09.29:491][932]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter3 -0.745
+[2018.06.28-00.10.38:708][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.10.39:220][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter3" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.28-00.10.39:258][935]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 32X32)
+[2018.06.28-00.10.39:258][935]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 256X256)
+[2018.06.28-00.10.39:261][935]LogTexture: Display: Building textures: Texture2D_123 (BGRA8, 32X32)
+[2018.06.28-00.10.39:261][935]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 32X32)
+[2018.06.28-00.10.39:262][935]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 32X32)
+[2018.06.28-00.10.39:262][935]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 32X32)
+[2018.06.28-00.10.39:263][935]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 32X32)
+[2018.06.28-00.10.39:263][935]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 32X32)
+[2018.06.28-00.10.39:263][935]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 32X32)
+[2018.06.28-00.10.39:264][935]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 32X32)
+[2018.06.28-00.10.39:457][935]LogSavePackage: Save=209.52ms
+[2018.06.28-00.10.39:457][935]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter329B3498F411687BEFDF1C4B8372B9762.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3.umap'
+[2018.06.28-00.10.39:462][935]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3.umap
+[2018.06.28-00.10.39:487][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter3_BuiltData" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3_BuiltData.uasset" SILENT=true
+[2018.06.28-00.10.39:536][935]LogSavePackage: Save=33.27ms
+[2018.06.28-00.10.39:536][935]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter3_BuiltData9310817E4167A341E20831BF49E4FE7A.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3_BuiltData.uasset'
+[2018.06.28-00.10.39:537][935]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3_BuiltData.uasset
+[2018.06.28-00.10.57:606][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.10.57:656][ 88]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-00.10.57:672][ 88]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-00.10.57:672][ 88]PIE: New page: PIE session: Level_Chapter3 (Jun 27, 2018, 4:10:57 PM)
+[2018.06.28-00.10.57:672][ 88]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter3
+[2018.06.28-00.10.57:682][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009900s)
+[2018.06.28-00.10.57:682][ 88]LogAIModule: Creating AISystem for world Level_Chapter3
+[2018.06.28-00.10.57:683][ 88]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2018.06.28-00.10.57:683][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter3.Level_Chapter3 to /Game/Maps/UEDPIE_0_Level_Chapter3.Level_Chapter3 (0.010886s)
+[2018.06.28-00.10.57:702][ 88]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-00.10.57:713][ 88]LogInit: FAudioDevice initialized.
+[2018.06.28-00.10.57:749][ 88]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.06.28-00.10.57:752][ 88]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter3.Level_Chapter3 up for play (max tick rate 0) at 2018.06.27-20.10.57
+[2018.06.28-00.10.57:752][ 88]LogWorld: Bringing up level for play took: 0.002675
+[2018.06.28-00.10.57:755][ 88]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter3 -0.481
+[2018.06.28-00.11.41:196][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.11.41:946][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter3" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.28-00.11.42:160][984]LogSavePackage: Save=199.66ms
+[2018.06.28-00.11.42:160][984]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter337DB2BFE4E6C67B6814861BA42CB7CEE.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3.umap'
+[2018.06.28-00.11.42:162][984]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3.umap
+[2018.06.28-00.11.42:185][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter3_BuiltData" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3_BuiltData.uasset" SILENT=true
+[2018.06.28-00.11.42:223][984]LogSavePackage: Save=32.98ms
+[2018.06.28-00.11.42:223][984]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter3_BuiltData7E7599994DC39FF107567B8952D3F8F0.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3_BuiltData.uasset'
+[2018.06.28-00.11.42:224][984]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3_BuiltData.uasset
