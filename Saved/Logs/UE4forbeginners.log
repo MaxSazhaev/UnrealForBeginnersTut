@@ -2475,3 +2475,586 @@ LogInit: Object subsystem initialized
 [2018.06.28-00.11.42:223][984]LogSavePackage: Save=32.98ms
 [2018.06.28-00.11.42:223][984]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter3_BuiltData7E7599994DC39FF107567B8952D3F8F0.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3_BuiltData.uasset'
 [2018.06.28-00.11.42:224][984]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3_BuiltData.uasset
+[2018.06.28-00.13.27:113][144]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-00.13.46:520][457]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-00.13.46:525][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter3" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.28-00.13.46:549][457]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 256X256)
+[2018.06.28-00.13.46:742][457]LogSavePackage: Save=201.74ms
+[2018.06.28-00.13.46:742][457]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter34A039FB042D995B734C20DA4EA9E8951.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3.umap'
+[2018.06.28-00.13.46:744][457]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3.umap
+[2018.06.28-00.13.46:767][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter3_BuiltData" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3_BuiltData.uasset" SILENT=true
+[2018.06.28-00.13.46:807][457]LogSavePackage: Save=33.86ms
+[2018.06.28-00.13.46:807][457]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter3_BuiltData5E4B02C84DEDF7EC65218087D0843A65.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3_BuiltData.uasset'
+[2018.06.28-00.13.46:808][457]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3_BuiltData.uasset
+[2018.06.28-00.14.04:310][514]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-00.14.04:315][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter3" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.28-00.14.04:529][514]LogSavePackage: Save=198.76ms
+[2018.06.28-00.14.04:529][514]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter323ADCA414E45B3974F97DBB8C9568F31.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3.umap'
+[2018.06.28-00.14.04:530][514]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3.umap
+[2018.06.28-00.14.04:553][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter3_BuiltData" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3_BuiltData.uasset" SILENT=true
+[2018.06.28-00.14.04:592][514]LogSavePackage: Save=33.22ms
+[2018.06.28-00.14.04:592][514]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter3_BuiltDataF79AA08D4BC2023912F1B898DFD89EA0.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3_BuiltData.uasset'
+[2018.06.28-00.14.04:593][514]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3_BuiltData.uasset
+[2018.06.28-00.15.00:324][967]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2018.06.28-00.15.00:442][967]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-00.15.01:740][ 97]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2018.06.28-00.15.01:766][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-00.15.56:259][580]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\maxsa\Desktop\Models _ Textures\Rocks\Rock.fbx)
+[2018.06.28-00.15.56:286][580]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.06.28-00.15.56:286][580]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.06.28-00.15.56:286][580]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.06.28-00.15.56:286][580]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.06.28-00.15.56:286][580]LogFbx: ItemName: Material, ItemCount : 1
+[2018.06.28-00.15.56:286][580]LogFbx: ItemName: Texture, ItemCount : 1
+[2018.06.28-00.15.56:286][580]LogFbx: ItemName: Model, ItemCount : 1
+[2018.06.28-00.15.56:286][580]LogFbx: ItemName: Video, ItemCount : 1
+[2018.06.28-00.15.56:297][580]LogFbx: Loading FBX Scene from C:\Users\maxsa\Desktop\Models _ Textures\Rocks\Rock.fbx
+[2018.06.28-00.15.56:323][580]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.28-00.15.56:402][580]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-00.16.20:136][580]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.06.28-00.16.20:186][580]LogFbx: Loading FBX Scene from C:\Users\maxsa\Desktop\Models _ Textures\Rocks\Rock.fbx
+[2018.06.28-00.16.20:192][580]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.28-00.16.20:198][580]LogFbx: Warning: Triangulating static mesh Rock
+[2018.06.28-00.16.20:226][580]LogStaticMesh: Building static mesh Rock...
+[2018.06.28-00.16.20:264][580]LogStaticMesh: Built static mesh [0.04s] /Game/Geometry/Rock.Rock
+[2018.06.28-00.16.41:126][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.16.41:813][452]LogSlate: Window 'Rock*' being destroyed
+[2018.06.28-00.16.44:637][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.16.50:223][151]LogSlate: Window 'Save Content' being destroyed
+[2018.06.28-00.16.50:239][151]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-00.16.50:255][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Rock" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Geometry/Rock.uasset" SILENT=true
+[2018.06.28-00.16.50:272][151]LogSavePackage: Save=13.91ms
+[2018.06.28-00.16.50:272][151]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Rock3D20DC5E471BF000160E53A6ECCFD16F.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Geometry/Rock.uasset'
+[2018.06.28-00.16.50:274][151]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Geometry/Rock.uasset
+[2018.06.28-00.16.52:573][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.17.08:074][964]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\maxsa\Desktop\Models _ Textures\Rocks\Rock_D.JPG)
+[2018.06.28-00.17.08:217][964]LogTexture: Display: Building textures: Rock_D (AutoDXT, 1024X1024)
+[2018.06.28-00.17.09:521][964]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\maxsa\Desktop\Models _ Textures\Rocks\Rock_Displacement.jpg)
+[2018.06.28-00.17.09:526][964]LogTexture: Display: Building textures: Rock_Displacement (AutoDXT, 256X256)
+[2018.06.28-00.17.09:589][964]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\maxsa\Desktop\Models _ Textures\Rocks\Rock_N.JPG)
+[2018.06.28-00.17.09:661][964]LogTexture: Display: Building textures: Rock_N (BC5, 1024X1024)
+[2018.06.28-00.17.30:605][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.17.32:456][488]LogSlate: Window 'Save Content' being destroyed
+[2018.06.28-00.17.32:472][488]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-00.17.32:486][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Rock_D" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Rock_D.uasset" SILENT=true
+[2018.06.28-00.17.32:650][488]LogSavePackage: Save=162.80ms
+[2018.06.28-00.17.32:650][488]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Rock_DCC5DBE2640C1DF49278FE58AD881ABE2.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Rock_D.uasset'
+[2018.06.28-00.17.32:652][488]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Rock_D.uasset
+[2018.06.28-00.17.32:663][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Rock_Displacement" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Rock_Displacement.uasset" SILENT=true
+[2018.06.28-00.17.32:678][488]LogSavePackage: Save=13.19ms
+[2018.06.28-00.17.32:678][488]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Rock_Displacement0896844144E078C83806FEB2D50EE4E7.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Rock_Displacement.uasset'
+[2018.06.28-00.17.32:680][488]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Rock_Displacement.uasset
+[2018.06.28-00.17.32:690][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Rock_N" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Rock_N.uasset" SILENT=true
+[2018.06.28-00.17.32:894][488]LogSavePackage: Save=202.73ms
+[2018.06.28-00.17.32:894][488]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Rock_N17CCA15A4ED487AE02BE10B9EAFC01A2.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Rock_N.uasset'
+[2018.06.28-00.17.32:897][488]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Textures/Rock_N.uasset
+[2018.06.28-00.17.38:223][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.17.49:048][965]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2018.06.28-00.17.49:112][965]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2018.06.28-00.17.49:119][965]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2018.06.28-00.17.49:131][965]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.28-00.17.49:131][965]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.28-00.17.49:131][965]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.28-00.17.50:194][ 49]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.28-00.17.50:202][ 50]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.28-00.17.50:263][ 56]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.28-00.17.50:596][ 63]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.28-00.17.50:632][ 67]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.28-00.17.50:711][ 75]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.28-00.17.50:841][ 83]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.28-00.17.51:023][ 87]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.28-00.17.51:157][102]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.28-00.17.51:164][103]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.28-00.17.51:449][118]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.28-00.17.51:535][120]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.28-00.17.51:597][122]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.28-00.17.51:924][146]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.06.28-00.17.51:924][146]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.06.28-00.17.51:924][146]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.28-00.17.51:924][146]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.28-00.17.53:866][376]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2018.06.28-00.17.53:873][376]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2018.06.28-00.17.53:912][377]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.28-00.17.53:912][377]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.28-00.17.53:913][377]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.28-00.17.54:069][378]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.28-00.17.54:069][378]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.28-00.17.54:080][379]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.28-00.17.54:216][383]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.28-00.17.54:266][388]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.28-00.17.54:274][389]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.28-00.17.54:384][390]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.28-00.17.54:548][392]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.28-00.17.54:590][395]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.28-00.17.54:598][396]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.28-00.17.54:794][399]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.28-00.17.54:933][405]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.28-00.17.55:053][417]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2018.06.28-00.17.55:061][417]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2018.06.28-00.17.55:202][418]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.28-00.17.55:202][418]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.28-00.17.55:284][419]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.28-00.17.55:349][420]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.28-00.17.55:349][420]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.28-00.17.55:815][422]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.28-00.17.55:815][422]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.28-00.17.55:815][422]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.28-00.17.55:816][422]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.28-00.17.55:816][422]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.28-00.17.55:816][422]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.28-00.17.56:208][423]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.28-00.17.56:208][423]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.28-00.17.56:208][423]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.28-00.17.56:208][423]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.28-00.17.56:208][423]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.28-00.17.56:500][428]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.06.28-00.17.56:500][428]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.06.28-00.17.56:500][428]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.28-00.17.56:500][428]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.28-00.18.02:741][159]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2018.06.28-00.18.02:777][160]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.28-00.18.02:777][160]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.28-00.18.02:777][160]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.28-00.18.02:915][161]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.28-00.18.02:939][164]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.28-00.18.02:981][168]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.28-00.18.03:136][175]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.28-00.18.03:155][177]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.28-00.18.03:204][182]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.28-00.18.03:353][187]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.28-00.18.03:486][190]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.28-00.18.03:528][192]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.28-00.18.03:572][197]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.28-00.18.03:763][202]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.28-00.18.03:862][204]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.28-00.18.04:076][208]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.28-00.18.04:262][229]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.06.28-00.18.04:262][229]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.06.28-00.18.04:262][229]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.28-00.18.04:262][229]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.28-00.18.10:570][961]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2018.06.28-00.18.10:580][961]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2018.06.28-00.18.10:593][961]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.28-00.18.10:593][961]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.28-00.18.10:593][961]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.28-00.18.10:606][961]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2018.06.28-00.18.10:775][963]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.28-00.18.10:775][963]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.28-00.18.10:838][968]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.28-00.18.10:981][970]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.28-00.18.11:047][977]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.28-00.18.11:110][982]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.28-00.18.11:219][984]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.28-00.18.11:260][986]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.28-00.18.11:270][987]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.28-00.18.11:421][990]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.28-00.18.11:469][993]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.28-00.18.11:497][995]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.28-00.18.11:679][997]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.28-00.18.11:775][999]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.28-00.18.11:821][  1]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.28-00.18.11:988][  2]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.28-00.18.11:988][  2]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.28-00.18.12:134][  4]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.28-00.18.12:357][ 15]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.06.28-00.18.12:357][ 15]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.06.28-00.18.12:357][ 15]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.28-00.18.12:357][ 15]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.28-00.18.15:552][379]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2018.06.28-00.18.15:561][379]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2018.06.28-00.18.15:575][379]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.28-00.18.15:575][379]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.28-00.18.15:575][379]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.28-00.18.15:589][379]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2018.06.28-00.18.15:745][381]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.28-00.18.15:754][382]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.28-00.18.15:764][383]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.28-00.18.15:933][385]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.28-00.18.15:941][386]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.28-00.18.15:987][388]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.28-00.18.16:145][396]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.28-00.18.16:178][400]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.28-00.18.16:188][401]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.28-00.18.16:347][408]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.28-00.18.16:355][409]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.28-00.18.16:366][410]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.28-00.18.16:523][412]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.28-00.18.16:686][414]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.28-00.18.16:699][415]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.28-00.18.16:898][418]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.28-00.18.16:966][420]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.28-00.18.17:069][425]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.28-00.18.17:395][446]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.06.28-00.18.17:395][446]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.06.28-00.18.17:395][446]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.28-00.18.17:395][446]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.28-00.18.22:244][ 27]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2018.06.28-00.18.22:252][ 27]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2018.06.28-00.18.22:271][ 29]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.28-00.18.22:272][ 29]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.28-00.18.22:272][ 29]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.28-00.18.22:447][ 33]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.28-00.18.22:457][ 34]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.28-00.18.22:465][ 35]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.28-00.18.22:588][ 37]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.28-00.18.22:613][ 39]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.28-00.18.22:632][ 41]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.28-00.18.22:767][ 47]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.28-00.18.22:919][ 49]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.28-00.18.22:927][ 50]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.28-00.18.22:985][ 57]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.28-00.18.23:190][ 64]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.28-00.18.23:317][ 66]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.28-00.18.23:416][ 77]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.28-00.18.23:792][103]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.06.28-00.18.23:792][103]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.06.28-00.18.23:792][103]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.28-00.18.23:792][103]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.28-00.18.23:978][124]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2018.06.28-00.18.23:994][125]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.28-00.18.23:994][125]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.28-00.18.23:994][125]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.28-00.18.24:216][134]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.28-00.18.24:239][136]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.28-00.18.24:273][140]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.28-00.18.24:438][146]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.28-00.18.24:458][149]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.28-00.18.24:458][149]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.28-00.18.24:593][152]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.28-00.18.24:748][155]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.28-00.18.24:799][160]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.28-00.18.24:820][162]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.28-00.18.24:988][163]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.28-00.18.25:098][166]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.28-00.18.25:184][174]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.28-00.18.25:387][187]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2018.06.28-00.18.25:393][187]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.28-00.18.25:527][190]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.28-00.18.25:527][190]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.28-00.18.25:619][194]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.28-00.18.25:669][196]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.28-00.18.25:779][204]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.28-00.18.25:839][206]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.28-00.18.25:877][209]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.28-00.18.25:969][212]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.28-00.18.26:008][215]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.28-00.18.26:178][218]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.28-00.18.26:218][218]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.28-00.18.26:311][220]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.28-00.18.26:490][222]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.28-00.18.26:491][222]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.28-00.18.26:581][224]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.28-00.18.26:863][238]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.06.28-00.18.26:863][238]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.06.28-00.18.26:863][238]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.28-00.18.26:863][238]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.28-00.18.27:075][263]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2018.06.28-00.18.27:086][263]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2018.06.28-00.18.27:099][263]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.28-00.18.27:099][263]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.28-00.18.27:099][263]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.28-00.18.27:356][267]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.28-00.18.27:364][268]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.28-00.18.27:439][275]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.28-00.18.27:569][278]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.28-00.18.27:577][279]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.28-00.18.27:658][282]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.28-00.18.27:765][287]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.28-00.18.27:927][292]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.28-00.18.27:978][294]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.28-00.18.28:011][297]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.28-00.18.28:207][299]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.28-00.18.28:261][299]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.28-00.18.28:327][301]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.28-00.18.28:507][303]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.28-00.18.28:544][305]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.28-00.18.28:632][307]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.06.28-00.18.28:632][307]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.06.28-00.18.28:632][307]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.06.28-00.18.28:632][307]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.28-00.18.28:632][307]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.28-00.18.29:072][355]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2018.06.28-00.18.29:083][355]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.28-00.18.29:083][355]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.28-00.18.29:083][355]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.28-00.18.29:085][355]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2018.06.28-00.18.29:279][357]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.28-00.18.29:288][358]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.28-00.18.29:295][359]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.28-00.18.29:445][362]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.28-00.18.29:445][362]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.28-00.18.29:499][366]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.28-00.18.29:633][368]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.28-00.18.29:793][370]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.28-00.18.29:821][373]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.28-00.18.29:846][376]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.28-00.18.30:057][381]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.28-00.18.30:213][385]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.28-00.18.30:213][385]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.28-00.18.30:387][393]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.28-00.18.30:467][395]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.28-00.18.30:576][398]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.06.28-00.18.30:576][398]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.06.28-00.18.30:576][398]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.06.28-00.18.30:576][398]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.28-00.18.30:576][398]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.28-00.18.39:889][504]LogMaterialEditor: Saving and Compiling material M_Rock
+[2018.06.28-00.18.40:974][504]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2018.06.28-00.18.41:005][504]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.28-00.18.41:005][504]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.28-00.18.41:005][504]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.28-00.18.41:014][504]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2018.06.28-00.18.41:030][504]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2018.06.28-00.18.41:054][504]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Rock, compiling. 
+[2018.06.28-00.18.42:239][504]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.06.28-00.18.42:239][504]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.06.28-00.18.42:239][504]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.06.28-00.18.42:239][504]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.06.28-00.18.42:239][504]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.06.28-00.18.42:239][504]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.28-00.18.42:239][504]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.28-00.18.42:239][504]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.28-00.18.42:239][504]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.06.28-00.18.42:240][504]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.06.28-00.18.42:240][504]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.06.28-00.18.42:240][504]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.06.28-00.18.42:240][504]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.06.28-00.18.42:240][504]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.06.28-00.18.42:240][504]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.06.28-00.18.42:240][504]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.28-00.18.42:240][504]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.28-00.18.42:241][504]TextureStreamingBuild: Display: Compiling optional shaders took 1.191 seconds.
+[2018.06.28-00.18.44:209][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Rock" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_Rock.uasset" SILENT=true
+[2018.06.28-00.18.44:227][504]LogSavePackage: Save=16.16ms
+[2018.06.28-00.18.44:227][504]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/M_RockC85137904FAA60A4A067A3A098D61AC5.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_Rock.uasset'
+[2018.06.28-00.18.44:229][504]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_Rock.uasset
+[2018.06.28-00.18.44:236][504]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.06.28-00.18.44:236][504]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.06.28-00.18.44:236][504]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.06.28-00.18.44:236][504]MaterialEditorStats: Texture samplers: 5/16
+[2018.06.28-00.18.44:236][504]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.28-00.19.25:829][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.19.34:206][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Rock" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Geometry/Rock.uasset" SILENT=true
+[2018.06.28-00.19.34:232][242]LogSavePackage: Save=14.20ms
+[2018.06.28-00.19.34:232][242]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Rock53DA75C841E69CC3EAD873818B5E8323.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Geometry/Rock.uasset'
+[2018.06.28-00.19.34:234][242]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Geometry/Rock.uasset
+[2018.06.28-00.19.36:847][476]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.28-00.19.36:912][476]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.28-00.19.36:920][476]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.28-00.19.36:927][476]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.28-00.19.36:927][476]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.28-00.19.36:927][476]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.28-00.19.36:951][476]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2018.06.28-00.19.36:954][476]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2018.06.28-00.19.37:417][491]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.28-00.19.37:417][491]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.28-00.19.37:437][493]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.28-00.19.37:585][496]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.28-00.19.37:606][498]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.28-00.19.37:635][500]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.28-00.19.37:752][502]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.28-00.19.37:896][504]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.28-00.19.37:924][505]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.28-00.19.38:159][516]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.28-00.19.38:365][518]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.28-00.19.38:373][519]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.28-00.19.38:600][533]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.28-00.19.38:761][535]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.28-00.19.38:786][535]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.28-00.19.38:834][538]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.28-00.19.38:996][538]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.28-00.19.38:996][538]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.06.28-00.19.38:996][538]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.06.28-00.19.38:996][538]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.06.28-00.19.38:997][538]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.28-00.19.38:997][538]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.28-00.19.43:153][ 18]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.28-00.19.43:194][ 19]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.28-00.19.43:194][ 19]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.28-00.19.43:194][ 19]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.28-00.19.43:362][ 21]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.28-00.19.43:371][ 22]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.28-00.19.43:378][ 23]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.28-00.19.43:547][ 30]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.28-00.19.43:555][ 31]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.28-00.19.43:590][ 34]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.28-00.19.43:719][ 37]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.28-00.19.43:876][ 43]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.28-00.19.43:973][ 54]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.28-00.19.44:015][ 56]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.28-00.19.44:211][ 58]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.28-00.19.44:304][ 67]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.28-00.19.44:545][ 72]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.28-00.19.44:721][ 92]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.06.28-00.19.44:721][ 92]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.06.28-00.19.44:721][ 92]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.06.28-00.19.44:721][ 92]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.28-00.19.44:721][ 92]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.28-00.19.47:885][469]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.28-00.19.47:898][469]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2018.06.28-00.19.47:911][469]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.28-00.19.47:911][469]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.28-00.19.47:911][469]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.28-00.19.48:083][470]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.28-00.19.48:110][473]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.28-00.19.48:121][474]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.28-00.19.48:264][476]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.28-00.19.48:297][479]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.28-00.19.48:306][480]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.28-00.19.48:447][482]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.28-00.19.48:604][485]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.28-00.19.48:619][487]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.28-00.19.48:656][491]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.28-00.19.48:859][498]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.28-00.19.48:970][499]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.28-00.19.49:009][501]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.28-00.19.49:157][503]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.28-00.19.49:204][505]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.28-00.19.49:328][507]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.06.28-00.19.49:328][507]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.06.28-00.19.49:328][507]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.06.28-00.19.49:328][507]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.28-00.19.49:329][507]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.28-00.19.50:558][652]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.28-00.19.50:568][652]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2018.06.28-00.19.50:581][652]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.28-00.19.50:581][652]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.28-00.19.50:581][652]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.28-00.19.50:765][656]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.28-00.19.50:773][657]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.28-00.19.50:781][658]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.28-00.19.50:934][663]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.28-00.19.50:967][666]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.28-00.19.50:976][667]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.28-00.19.51:130][671]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.28-00.19.51:281][673]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.28-00.19.51:308][675]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.28-00.19.51:316][676]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.28-00.19.51:507][679]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.28-00.19.51:617][682]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.28-00.19.51:659][683]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.28-00.19.51:813][685]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.28-00.19.51:859][686]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.28-00.19.51:995][689]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.06.28-00.19.51:996][689]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.06.28-00.19.51:996][689]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.06.28-00.19.51:996][689]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.28-00.19.51:996][689]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.28-00.19.54:301][960]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.28-00.19.54:309][960]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.28-00.19.54:323][961]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.28-00.19.54:323][961]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.28-00.19.54:323][961]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.28-00.19.54:533][968]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.28-00.19.54:541][969]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.28-00.19.54:552][970]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.28-00.19.54:690][973]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.28-00.19.54:717][975]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.28-00.19.54:734][977]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.28-00.19.54:852][979]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.28-00.19.55:031][981]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.28-00.19.55:042][982]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.28-00.19.55:098][984]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.28-00.19.55:267][986]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.28-00.19.55:403][992]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.28-00.19.55:411][993]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.28-00.19.55:459][998]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.28-00.19.55:469][998]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.28-00.19.55:616][  0]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.28-00.19.55:632][  2]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.28-00.19.55:797][  8]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.28-00.19.55:840][ 10]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.28-00.19.55:920][ 15]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.28-00.19.56:049][ 22]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.28-00.19.56:080][ 22]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.28-00.19.56:142][ 24]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.28-00.19.56:227][ 27]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.28-00.19.56:270][ 29]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.28-00.19.56:447][ 30]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.28-00.19.56:486][ 32]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.28-00.19.56:560][ 34]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.28-00.19.56:756][ 38]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.28-00.19.56:759][ 38]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.28-00.19.56:766][ 38]LogMaterialEditor: Saving and Compiling material M_Rock
+[2018.06.28-00.19.57:234][ 38]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.28-00.19.57:234][ 38]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.28-00.19.57:234][ 38]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.28-00.19.57:234][ 38]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.28-00.19.57:248][ 38]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.28-00.19.57:269][ 38]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.28-00.19.57:290][ 38]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2018.06.28-00.19.57:306][ 38]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2018.06.28-00.19.57:359][ 38]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.06.28-00.19.57:365][ 38]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Rock, compiling. 
+[2018.06.28-00.19.58:719][ 38]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.06.28-00.19.58:719][ 38]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.06.28-00.19.58:719][ 38]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.06.28-00.19.58:719][ 38]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.06.28-00.19.58:719][ 38]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.06.28-00.19.58:719][ 38]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.06.28-00.19.58:719][ 38]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.28-00.19.58:719][ 38]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.28-00.19.58:719][ 38]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.28-00.19.58:719][ 38]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.06.28-00.19.58:719][ 38]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.06.28-00.19.58:719][ 38]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.06.28-00.19.58:719][ 38]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.06.28-00.19.58:719][ 38]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.06.28-00.19.58:719][ 38]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.06.28-00.19.58:719][ 38]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.06.28-00.19.58:719][ 38]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.28-00.19.58:719][ 38]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.28-00.19.58:721][ 38]TextureStreamingBuild: Display: Compiling optional shaders took 1.360 seconds.
+[2018.06.28-00.20.00:663][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Rock" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_Rock.uasset" SILENT=true
+[2018.06.28-00.20.00:689][ 38]LogSavePackage: Save=16.16ms
+[2018.06.28-00.20.00:689][ 38]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/M_Rock5176773C414592F8BD8FD397D304D331.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_Rock.uasset'
+[2018.06.28-00.20.00:691][ 38]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_Rock.uasset
+[2018.06.28-00.20.00:697][ 38]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.06.28-00.20.00:697][ 38]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.06.28-00.20.00:697][ 38]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.06.28-00.20.00:697][ 38]MaterialEditorStats: Texture samplers: 5/16
+[2018.06.28-00.20.00:697][ 38]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.28-00.20.19:537][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.20.20:028][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Rock" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Geometry/Rock.uasset" SILENT=true
+[2018.06.28-00.20.20:040][324]LogSavePackage: Save=6.08ms
+[2018.06.28-00.20.20:040][324]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Rock995FBD1340078D3E56EC5C8C22B781F2.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Geometry/Rock.uasset'
+[2018.06.28-00.20.20:041][324]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Geometry/Rock.uasset
+[2018.06.28-00.20.37:131][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.20.46:389][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.20.46:650][965]LogActorFactory: Actor Factory created Rock
+[2018.06.28-00.20.49:039][168]LogActorFactory: Actor Factory created Rock
+[2018.06.28-00.20.53:384][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.20.54:366][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock)
+[2018.06.28-00.21.50:630][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock2)
+[2018.06.28-00.23.00:854][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock2)
+[2018.06.28-00.23.12:477][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock3)
+[2018.06.28-00.23.55:041][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.23.55:277][ 66]LogActorFactory: Actor Factory created Rock
+[2018.06.28-00.23.55:995][115]LogActorFactory: Actor Factory created Rock
+[2018.06.28-00.23.57:992][322]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.06.28-00.23.58:727][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock4)
+[2018.06.28-00.24.06:039][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.24.06:260][133]LogActorFactory: Actor Factory created Rock
+[2018.06.28-00.24.07:185][206]LogActorFactory: Actor Factory created Rock
+[2018.06.28-00.24.15:642][ 58]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.06.28-00.24.36:883][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.24.37:081][ 21]LogActorFactory: Actor Factory created Rock
+[2018.06.28-00.24.38:017][ 98]LogActorFactory: Actor Factory created Rock
+[2018.06.28-00.24.48:839][216]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.06.28-00.24.54:684][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.24.54:826][807]LogActorFactory: Actor Factory created Rock
+[2018.06.28-00.24.55:465][852]LogActorFactory: Actor Factory created Rock
+[2018.06.28-00.25.04:192][726]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.06.28-00.25.09:728][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.25.09:896][290]LogActorFactory: Actor Factory created Rock
+[2018.06.28-00.25.10:828][368]LogActorFactory: Actor Factory created Rock
+[2018.06.28-00.25.19:707][250]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.06.28-00.25.45:592][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-00.25.48:545][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter3" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.28-00.25.48:773][ 75]LogSavePackage: Save=205.29ms
+[2018.06.28-00.25.48:773][ 75]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter3CBC69B434593CCB903EF569B65DCEDA8.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3.umap'
+[2018.06.28-00.25.48:775][ 75]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3.umap
+[2018.06.28-00.25.48:798][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter3_BuiltData" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3_BuiltData.uasset" SILENT=true
+[2018.06.28-00.25.48:844][ 75]LogSavePackage: Save=33.52ms
+[2018.06.28-00.25.48:844][ 75]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter3_BuiltDataB55399E349330BC155BF649F737BEB01.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3_BuiltData.uasset'
+[2018.06.28-00.25.48:846][ 75]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter3_BuiltData.uasset
