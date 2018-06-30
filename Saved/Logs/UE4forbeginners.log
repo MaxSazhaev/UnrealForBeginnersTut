@@ -1,4 +1,4 @@
-﻿Log file open, 06/29/18 23:27:27
+﻿Log file open, 06/30/18 12:59:59
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +7,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: UE4forbeginners
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-773510384) SRandInit(-773510384).
+LogInit: Display: RandInit(607822402) SRandInit(607822402).
 LogInit: Read version file with build ID '3944462'
 LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
 LogInit: Registered custom module enumerator with build ID '3944462'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 4.029285
+LogStats: Stats thread started at 0.175798
 LogD3D11RHI: Aftermath initialized
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
@@ -168,7 +168,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  3.415s to configure plugins.
+LogStreaming: Display: Took  0.890s to configure plugins.
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -219,383 +219,352 @@ LogInit: Branch Name: ++UE4+Release-4.19
 LogInit: Command Line:  
 LogInit: Base Directory: E:/UE_4.19/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
-LogStreaming: Display: Took  0.003s to delete old logs.
+LogStreaming: Display: Took  0.002s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.06.30-03.27.32:052][  0]LogInit: Selected Device Profile: [Windows]
-[2018.06.30-03.27.32:052][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.06.30-03.27.32:142][  0]LogInit: Computer: MAX-PC
-[2018.06.30-03.27.32:142][  0]LogInit: User: maxsa
-[2018.06.30-03.27.32:142][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.06.30-03.27.32:142][  0]LogInit: High frequency timer resolution =3.551563 MHz
-[2018.06.30-03.27.32:142][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
-[2018.06.30-03.27.32:142][  0]LogMemory: Platform Memory Stats for Windows
-[2018.06.30-03.27.32:142][  0]LogMemory: Process Physical Memory: 272.94 MB used, 272.94 MB peak
-[2018.06.30-03.27.32:142][  0]LogMemory: Process Virtual Memory: 269.89 MB used, 269.89 MB peak
-[2018.06.30-03.27.32:142][  0]LogMemory: Physical Memory: 9459.67 MB used,  6875.19 MB free, 16334.86 MB total
-[2018.06.30-03.27.32:142][  0]LogMemory: Virtual Memory: 4783.99 MB used,  6875.19 MB free, 134217728.00 MB total
-[2018.06.30-03.27.32:954][  0]LogInit: Using OS detected language (en-US).
-[2018.06.30-03.27.32:954][  0]LogInit: Using OS detected locale (en-CA).
-[2018.06.30-03.27.33:246][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.06.30-03.27.34:204][  0]LogStreaming: Display: Took  1.235s to EndInitTextLocalization.
-[2018.06.30-03.27.34:246][  0]LogInit: Setting process to per monitor DPI aware
-[2018.06.30-03.27.34:839][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.06.30-03.27.34:839][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.06.30-03.27.37:643][  0]LogD3D11RHI: D3D11 adapters:
-[2018.06.30-03.27.37:714][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
-[2018.06.30-03.27.37:714][  0]LogD3D11RHI:       8088/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2018.06.30-03.27.37:716][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.06.30-03.27.37:716][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.06.30-03.27.37:716][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.06.30-03.27.37:729][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.06.30-03.27.37:732][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
-[2018.06.30-03.27.37:732][  0]LogWindows: EnumDisplayDevices:
-[2018.06.30-03.27.37:732][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
-[2018.06.30-03.27.37:732][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
-[2018.06.30-03.27.37:733][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2018.06.30-03.27.37:733][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2018.06.30-03.27.37:733][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.06.30-03.27.37:733][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
-[2018.06.30-03.27.37:733][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.06.30-03.27.37:733][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.06.30-03.27.37:733][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
-[2018.06.30-03.27.37:795][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
-[2018.06.30-03.27.37:795][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
-[2018.06.30-03.27.37:795][  0]LogD3D11RHI: Async texture creation enabled
-[2018.06.30-03.27.38:095][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2018.06.30-03.27.38:247][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Intermediate/Shaders/WorkingDirectory/9444/).
-[2018.06.30-03.27.38:257][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/maxsa/AppData/Local/Temp/UnrealShaderWorkingDir/DA5D474949C52AC7CD4989987D7AD6BF/'.
-[2018.06.30-03.27.39:471][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.06.30-03.27.39:484][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.06.30-03.27.39:497][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.06.30-03.27.39:512][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.06.30-03.27.39:547][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.06.30-03.27.39:561][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.06.30-03.27.39:574][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.06.30-03.27.39:588][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.06.30-03.27.39:594][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.06.30-03.27.39:606][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.06.30-03.27.39:619][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.06.30-03.27.39:631][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.06.30-03.27.39:644][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
-[2018.06.30-03.27.39:656][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.06.30-03.27.39:668][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.06.30-03.27.39:694][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.06.30-03.27.39:694][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.06.30-03.27.39:715][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.06.30-03.27.39:724][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.06.30-03.27.39:846][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.06.30-03.27.39:871][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.06.30-03.27.39:882][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.06.30-03.27.39:894][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.06.30-03.27.39:907][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.06.30-03.27.39:937][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.06.30-03.27.39:937][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.06.30-03.27.41:128][  0]LogXGEController: Cleaning working directory: C:/Users/maxsa/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2018.06.30-03.27.41:129][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.06.30-03.27.41:135][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.06.30-03.27.41:135][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.06.30-03.27.44:256][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.06.30-03.27.44:574][  0]LogDerivedDataCache: Loaded boot cache 0.32s 74MB C:/Users/maxsa/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.06.30-03.27.44:574][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/maxsa/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
-[2018.06.30-03.27.44:574][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.06.30-03.27.44:574][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.06.30-03.27.44:574][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.06.30-03.27.44:574][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.06.30-03.27.44:693][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.06.30-03.27.44:707][  0]LogDerivedDataCache: Using Local data cache path C:/Users/maxsa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.06.30-03.27.44:707][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2018.06.30-03.27.44:707][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2018.06.30-03.27.44:783][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.06.30-03.27.44:848][  0]LogSlate: Using Freetype 2.6.0
-[2018.06.30-03.27.45:016][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.06.30-03.27.45:016][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.06.30-03.27.52:396][  0]LogAssetRegistry: FAssetRegistry took 0.0282 seconds to start up
-[2018.06.30-03.27.58:207][  0]LogInit: Selected Device Profile: [Windows]
-[2018.06.30-03.28.01:663][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.06.30-03.28.01:701][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.06.30-03.28.01:702][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.06.30-03.28.01:702][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.06.30-03.28.01:702][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.06.30-03.28.01:702][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.06.30-03.28.02:149][  0]LogNetVersion: UE4forbeginners , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 240379116)
-[2018.06.30-03.28.07:539][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.118694 seconds
-[2018.06.30-03.28.07:554][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
-[2018.06.30-03.28.07:554][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
-[2018.06.30-03.28.07:554][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.06.30-03.28.20:441][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.06.30-03.28.20:486][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.06.30-03.28.21:600][  0]SourceControl: Source control is disabled
-[2018.06.30-03.28.21:601][  0]SourceControl: Source control is disabled
-[2018.06.30-03.28.21:728][  0]SourceControl: Source control is disabled
-[2018.06.30-03.28.21:785][  0]SourceControl: Source control is disabled
-[2018.06.30-03.28.23:143][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.06.30-03.28.23:394][  0]LogOcInput: OculusInput pre-init called
-[2018.06.30-03.28.24:326][  0]LogEngine: Initializing Engine...
-[2018.06.30-03.28.24:532][  0]LogHMD: Failed to initialize OpenVR with code 105
-[2018.06.30-03.28.24:575][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.06.30-03.28.24:577][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.06.30-03.28.26:133][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.06.30-03.28.26:559][  0]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.06.30-03.28.26:584][  0]LogInit: FAudioDevice initialized.
-[2018.06.30-03.28.26:669][  0]LogDerivedDataCache: Saved boot cache 0.04s 74MB C:/Users/maxsa/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.06.30-03.28.26:689][  0]LogInit: Texture streaming: Enabled
-[2018.06.30-03.28.26:848][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.06.30-03.28.27:200][  0]LogInit: Transaction tracking system initialized
-[2018.06.30-03.28.27:716][  0]BlueprintLog: New page: Editor Load
-[2018.06.30-03.28.29:312][  0]LocalizationService: Localization service is disabled
-[2018.06.30-03.28.30:163][  0]LogConsoleResponse: Display: 
-[2018.06.30-03.28.35:160][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/' took 0.04s
-[2018.06.30-03.28.35:160][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.06.30-03.28.35:181][  0]LogCook: Display: Mobile HDR setting 1
-[2018.06.30-03.28.35:228][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.06.30-03.28.35:257][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.06.30-03.28.35:257][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.06.30-03.28.38:614][  0]SourceControl: Source control is disabled
-[2018.06.30-03.28.38:646][  0]Cmd: MAP LOAD FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.06.30-03.28.38:679][  0]LightingResults: New page: Lighting Build
-[2018.06.30-03.28.39:117][  0]MapCheck: New page: Map Check
-[2018.06.30-03.28.39:117][  0]LightingResults: New page: Lighting Build
-[2018.06.30-03.28.40:717][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000201a7b76020, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
-[2018.06.30-03.28.40:988][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000201a7b76020, Size=72
-[2018.06.30-03.28.40:988][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002018971f970, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
-[2018.06.30-03.28.41:156][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002018c43db20, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
-[2018.06.30-03.28.41:233][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002018c422700, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
-[2018.06.30-03.28.41:317][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002018c422700, Size=256
-[2018.06.30-03.28.41:317][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002018c422700, Size=256, Default__FirstPersonProjectile_C Function /Engine/Transient.REINST_FirstPersonProjectile_C_4:ExecuteUbergraph_FirstPersonProjectile
-[2018.06.30-03.28.41:331][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002018c420b00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
-[2018.06.30-03.28.41:702][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002018d074a00, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
-[2018.06.30-03.28.41:769][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002018d074a00, Size=688
-[2018.06.30-03.28.41:769][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002018cc71c00, Size=688, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_6:ExecuteUbergraph_FirstPersonCharacter
-[2018.06.30-03.28.41:795][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002018cbafd00, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
-[2018.06.30-03.28.42:144][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020195dcbf90, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
-[2018.06.30-03.28.42:148][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020195dcbf90, Size=52
-[2018.06.30-03.28.42:148][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020195dcbf90, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_10:ExecuteUbergraph_FirstPersonHUD
-[2018.06.30-03.28.42:150][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020195dcb8c8, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
-[2018.06.30-03.28.42:870][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [46.541199ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
-[2018.06.30-03.28.43:313][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [16.523148ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
-[2018.06.30-03.28.43:550][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
-[2018.06.30-03.28.45:219][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.06.30-03.28.45:389][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002018971f970, Size=72
-[2018.06.30-03.28.45:421][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002018c422700, Size=256
-[2018.06.30-03.28.45:421][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002018cc71c00, Size=688
-[2018.06.30-03.28.45:421][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020195dcbf90, Size=52
-[2018.06.30-03.28.45:498][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.06.30-03.28.45:568][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.578ms to complete.
-[2018.06.30-03.28.45:568][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 6.930
-[2018.06.30-03.28.48:128][  0]LogCollectionManager: Loaded 0 collections in 0.003293 seconds
-[2018.06.30-03.28.48:405][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Collections/' took 0.01s
-[2018.06.30-03.28.48:405][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Developers/maxsa/Collections/' took 0.01s
-[2018.06.30-03.28.48:405][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Collections/' took 0.01s
-[2018.06.30-03.28.48:405][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.06.30-03.28.48:437][  0]LogContentBrowser: Native class hierarchy populated in 0.0125 seconds. Added 2452 classes and 558 folders.
-[2018.06.30-03.28.48:605][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.06.30-03.28.50:265][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.06.30-03.28.50:350][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2018.06.30-03.28.51:175][  0]LogSlate: Took 0.018243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.06.30-03.28.51:216][  0]LogSlate: Took 0.018249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.06.30-03.28.51:290][  0]LogSlate: Took 0.020406 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.06.30-03.28.52:026][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
-[2018.06.30-03.28.52:834][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.06.30-03.28.52:834][  0]LogLoad: (Engine Initialization) Total time: 99.71 seconds
-[2018.06.30-03.28.52:834][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.06.30-03.28.53:467][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.06.30-03.28.53:733][  0]LogSlate: Took 0.028908 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.06.30-03.28.54:256][  2]LogAssetRegistry: Asset discovery search completed in 61.8813 seconds
-[2018.06.30-03.28.54:267][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.06.30-03.28.54:267][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000072 seconds (updated 0 objects)
-[2018.06.30-03.28.54:307][  2]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.06.30-03.28.56:321][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.06.30-03.28.59:756][ 10]LogMaterial: Missing cached shader map for material M_GrassMaster, compiling. 
-[2018.06.30-03.29.00:480][ 10]LogMaterial: Missing cached shader map for material M_GrassMaster, compiling. 
-[2018.06.30-03.29.00:532][ 10]LogShaderCompilers: Display: Shaders left to compile 33
-[2018.06.30-03.29.00:532][ 10]LogShaderCompilers: Display: Shaders left to compile 32
-[2018.06.30-03.29.00:532][ 10]LogShaderCompilers: Display: Shaders left to compile 31
-[2018.06.30-03.29.00:536][ 10]LogMaterial: Missing cached shader map for material M_GrassMaster, compiling. 
-[2018.06.30-03.29.00:604][ 10]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
-[2018.06.30-03.29.00:609][ 10]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
-[2018.06.30-03.29.00:614][ 10]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
-[2018.06.30-03.29.00:869][ 10]LogSlate: Took 0.060470 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2018.06.30-03.29.03:241][ 13]LogSlate: Took 0.017323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2018.06.30-03.29.04:275][ 17]LogShaderCompilers: Display: Shaders left to compile 39
-[2018.06.30-03.29.04:275][ 17]LogShaderCompilers: Display: Shaders left to compile 38
-[2018.06.30-03.29.04:275][ 17]LogShaderCompilers: Display: Shaders left to compile 37
-[2018.06.30-03.29.04:275][ 17]LogShaderCompilers: Display: Shaders left to compile 36
-[2018.06.30-03.29.04:275][ 17]LogShaderCompilers: Display: Shaders left to compile 35
-[2018.06.30-03.29.04:275][ 17]LogShaderCompilers: Display: Shaders left to compile 34
-[2018.06.30-03.29.04:649][ 17]LogShaderCompilers: Display: Shaders left to compile 33
-[2018.06.30-03.29.04:649][ 17]LogShaderCompilers: Display: Shaders left to compile 32
-[2018.06.30-03.29.04:649][ 17]LogShaderCompilers: Display: Shaders left to compile 31
-[2018.06.30-03.29.04:649][ 17]LogShaderCompilers: Display: Shaders left to compile 30
-[2018.06.30-03.29.04:649][ 17]LogShaderCompilers: Display: Shaders left to compile 29
-[2018.06.30-03.29.04:649][ 17]LogShaderCompilers: Display: Shaders left to compile 28
-[2018.06.30-03.29.04:923][ 19]LogShaderCompilers: Display: Shaders left to compile 27
-[2018.06.30-03.29.04:923][ 19]LogShaderCompilers: Display: Shaders left to compile 26
-[2018.06.30-03.29.04:923][ 19]LogShaderCompilers: Display: Shaders left to compile 25
-[2018.06.30-03.29.04:923][ 19]LogShaderCompilers: Display: Shaders left to compile 24
-[2018.06.30-03.29.04:923][ 19]LogShaderCompilers: Display: Shaders left to compile 23
-[2018.06.30-03.29.05:286][ 20]LogShaderCompilers: Display: Shaders left to compile 22
-[2018.06.30-03.29.05:286][ 20]LogShaderCompilers: Display: Shaders left to compile 21
-[2018.06.30-03.29.05:286][ 20]LogShaderCompilers: Display: Shaders left to compile 20
-[2018.06.30-03.29.05:286][ 20]LogShaderCompilers: Display: Shaders left to compile 19
-[2018.06.30-03.29.05:636][ 21]LogShaderCompilers: Display: Shaders left to compile 18
-[2018.06.30-03.29.05:636][ 21]LogShaderCompilers: Display: Shaders left to compile 17
-[2018.06.30-03.29.05:636][ 21]LogShaderCompilers: Display: Shaders left to compile 16
-[2018.06.30-03.29.05:636][ 21]LogShaderCompilers: Display: Shaders left to compile 15
-[2018.06.30-03.29.06:006][ 22]LogShaderCompilers: Display: Shaders left to compile 14
-[2018.06.30-03.29.06:006][ 22]LogShaderCompilers: Display: Shaders left to compile 13
-[2018.06.30-03.29.06:006][ 22]LogShaderCompilers: Display: Shaders left to compile 12
-[2018.06.30-03.29.06:006][ 22]LogShaderCompilers: Display: Shaders left to compile 11
-[2018.06.30-03.29.06:299][ 22]LogShaderCompilers: Display: Shaders left to compile 10
-[2018.06.30-03.29.06:299][ 22]LogShaderCompilers: Display: Shaders left to compile 9
-[2018.06.30-03.29.06:374][ 22]LogShaderCompilers: Display: Shaders left to compile 8
-[2018.06.30-03.29.06:400][ 22]LogShaderCompilers: Display: Shaders left to compile 7
-[2018.06.30-03.29.06:627][ 23]LogShaderCompilers: Display: Shaders left to compile 6
-[2018.06.30-03.29.06:731][ 24]LogShaderCompilers: Display: Shaders left to compile 5
-[2018.06.30-03.29.06:731][ 24]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:3).
-[2018.06.30-03.29.06:785][ 29]LogShaderCompilers: Display: Shaders left to compile 4
-[2018.06.30-03.29.07:069][ 53]LogShaderCompilers: Display: Shaders left to compile 3
-[2018.06.30-03.29.07:207][ 55]LogShaderCompilers: Display: Shaders left to compile 2
-[2018.06.30-03.29.07:290][ 55]LogShaderCompilers: Display: Shaders left to compile 1
-[2018.06.30-03.29.07:338][ 56]MaterialEditorStats: Base pass shader: 126 instructions
-[2018.06.30-03.29.07:339][ 56]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 215 instructions
-[2018.06.30-03.29.07:339][ 56]MaterialEditorStats: Vertex shader: 60 instructions
-[2018.06.30-03.29.07:339][ 56]MaterialEditorStats: Texture samplers: 4/16
-[2018.06.30-03.29.07:339][ 56]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
-[2018.06.30-03.29.08:438][147]LogSlate: Window 'M_GrassMaster' being destroyed
-[2018.06.30-03.29.14:637][810]Cmd: MAP LOAD FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.06.30-03.29.14:653][810]LightingResults: New page: Lighting Build
-[2018.06.30-03.29.14:654][810]LoadErrors: New page: Loading map: Level_Chapter5.umap
-[2018.06.30-03.29.14:670][810]MapCheck: New page: Map Check
-[2018.06.30-03.29.14:670][810]LightingResults: New page: Lighting Build
-[2018.06.30-03.29.15:583][810]LogAIModule: Creating AISystem for world Level_Chapter5
-[2018.06.30-03.29.16:000][810]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.06.30-03.29.16:047][810]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.06.30-03.29.16:108][810]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.487ms to complete.
-[2018.06.30-03.29.16:108][810]LogFileHelpers: Loading map 'Level_Chapter5' took 1.529
-[2018.06.30-03.29.16:128][810]LogSlate: Window 'Open Level' being destroyed
-[2018.06.30-03.29.19:062][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GrassClump)
-[2018.06.30-03.29.21:293][204]Cmd: DELETE
-[2018.06.30-03.29.21:293][204]Cmd: ACTOR DELETE
-[2018.06.30-03.29.21:603][204]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.06.30-03.29.21:679][204]LogEditorActor: Deleted 1 Actors (0.161 secs)
-[2018.06.30-03.29.27:098][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.06.30-03.30.47:954][559]LogMaterial: Warning: Material /Game/Materials/M_GrassMaster.M_GrassMaster needed to have new flag set bUsedWithInstancedStaticMeshes !
-[2018.06.30-03.30.47:955][559]LogMaterial: Warning: Material /Engine/Transient.M_GrassMaster needed to have new flag set bUsedWithInstancedStaticMeshes !
-[2018.06.30-03.30.47:958][559]LogMaterial: Missing cached shader map for material M_GrassMaster, compiling. 
-[2018.06.30-03.30.47:971][559]LogMaterial: Missing cached shader map for material M_GrassMaster, compiling. 
-[2018.06.30-03.30.48:014][559]LogShaderCompilers: Display: Shaders left to compile 35
-[2018.06.30-03.30.48:014][559]LogShaderCompilers: Display: Shaders left to compile 34
-[2018.06.30-03.30.48:014][559]LogShaderCompilers: Display: Shaders left to compile 33
-[2018.06.30-03.30.48:597][587]LogShaderCompilers: Display: Shaders left to compile 123
-[2018.06.30-03.30.48:695][591]LogShaderCompilers: Display: Shaders left to compile 122
-[2018.06.30-03.30.48:695][591]LogShaderCompilers: Display: Shaders left to compile 121
-[2018.06.30-03.30.48:825][593]LogShaderCompilers: Display: Shaders left to compile 120
-[2018.06.30-03.30.48:857][594]LogShaderCompilers: Display: Shaders left to compile 119
-[2018.06.30-03.30.48:941][596]LogShaderCompilers: Display: Shaders left to compile 118
-[2018.06.30-03.30.49:103][599]LogShaderCompilers: Display: Shaders left to compile 117
-[2018.06.30-03.30.49:357][624]LogShaderCompilers: Display: Shaders left to compile 116
-[2018.06.30-03.30.49:449][633]LogShaderCompilers: Display: Shaders left to compile 115
-[2018.06.30-03.30.49:749][665]LogShaderCompilers: Display: Shaders left to compile 114
-[2018.06.30-03.30.49:784][669]LogShaderCompilers: Display: Shaders left to compile 113
-[2018.06.30-03.30.49:870][679]LogShaderCompilers: Display: Shaders left to compile 112
-[2018.06.30-03.30.50:085][704]LogShaderCompilers: Display: Shaders left to compile 111
-[2018.06.30-03.30.50:170][713]LogShaderCompilers: Display: Shaders left to compile 110
-[2018.06.30-03.30.50:201][714]LogShaderCompilers: Display: Shaders left to compile 109
-[2018.06.30-03.30.50:324][715]LogShaderCompilers: Display: Shaders left to compile 108
-[2018.06.30-03.30.50:353][716]LogShaderCompilers: Display: Shaders left to compile 107
-[2018.06.30-03.30.50:490][717]LogShaderCompilers: Display: Shaders left to compile 106
-[2018.06.30-03.30.50:564][718]LogShaderCompilers: Display: Shaders left to compile 105
-[2018.06.30-03.30.50:664][719]LogShaderCompilers: Display: Shaders left to compile 104
-[2018.06.30-03.30.50:715][720]LogShaderCompilers: Display: Shaders left to compile 103
-[2018.06.30-03.30.50:797][722]LogShaderCompilers: Display: Shaders left to compile 102
-[2018.06.30-03.30.51:053][723]LogShaderCompilers: Display: Shaders left to compile 101
-[2018.06.30-03.30.51:053][723]LogShaderCompilers: Display: Shaders left to compile 100
-[2018.06.30-03.30.51:161][726]LogShaderCompilers: Display: Shaders left to compile 99
-[2018.06.30-03.30.51:407][727]LogShaderCompilers: Display: Shaders left to compile 98
-[2018.06.30-03.30.51:466][728]LogShaderCompilers: Display: Shaders left to compile 97
-[2018.06.30-03.30.51:492][729]LogShaderCompilers: Display: Shaders left to compile 96
-[2018.06.30-03.30.51:745][733]LogShaderCompilers: Display: Shaders left to compile 95
-[2018.06.30-03.30.51:771][735]LogShaderCompilers: Display: Shaders left to compile 94
-[2018.06.30-03.30.51:887][738]LogShaderCompilers: Display: Shaders left to compile 93
-[2018.06.30-03.30.51:994][740]LogShaderCompilers: Display: Shaders left to compile 92
-[2018.06.30-03.30.52:071][742]LogShaderCompilers: Display: Shaders left to compile 91
-[2018.06.30-03.30.52:257][745]LogShaderCompilers: Display: Shaders left to compile 81
-[2018.06.30-03.30.52:297][748]LogShaderCompilers: Display: Shaders left to compile 71
-[2018.06.30-03.30.53:720][748]MaterialEditorStats: Base pass shader: 126 instructions
-[2018.06.30-03.30.53:720][748]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 215 instructions
-[2018.06.30-03.30.53:720][748]MaterialEditorStats: Vertex shader: 60 instructions
-[2018.06.30-03.30.53:720][748]MaterialEditorStats: Texture samplers: 4/16
-[2018.06.30-03.30.53:720][748]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
-[2018.06.30-03.30.53:727][749]LogShaderCompilers: Display: Shaders left to compile 61
-[2018.06.30-03.30.53:832][750]LogShaderCompilers: Display: Shaders left to compile 51
-[2018.06.30-03.30.54:205][752]LogShaderCompilers: Display: Shaders left to compile 41
-[2018.06.30-03.30.54:220][752]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
-[2018.06.30-03.30.54:422][752]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.06.30-03.30.56:968][909]LogShaderCompilers: Display: Shaders left to compile 31
-[2018.06.30-03.30.56:968][909]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
-[2018.06.30-03.30.57:001][909]LogShaderCompilers: Display: Shaders left to compile 21
-[2018.06.30-03.30.57:002][909]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.06.30-03.30.57:716][980]LogShaderCompilers: Display: Shaders left to compile 11
-[2018.06.30-03.30.59:455][981]LogShaderCompilers: Display: Shaders left to compile 1
-[2018.06.30-03.33.36:611][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.06.30-03.33.36:670][747]LogTemp: Repeating last play command: Selected Viewport
-[2018.06.30-03.33.36:773][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.06.30-03.33.36:879][747]PIE: New page: PIE session: Level_Chapter5 (Jun 29, 2018, 7:33:36 PM)
-[2018.06.30-03.33.36:889][747]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter5
-[2018.06.30-03.33.36:988][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.098953s)
-[2018.06.30-03.33.36:989][747]LogAIModule: Creating AISystem for world Level_Chapter5
-[2018.06.30-03.33.37:003][747]LogPlayLevel: PIE: World Init took: (0.014540s)
-[2018.06.30-03.33.37:003][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter5.Level_Chapter5 to /Game/Maps/UEDPIE_0_Level_Chapter5.Level_Chapter5 (0.113766s)
-[2018.06.30-03.33.37:060][747]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.06.30-03.33.37:073][747]LogInit: FAudioDevice initialized.
-[2018.06.30-03.33.37:127][747]LogLoad: Game class is 'FirstPersonGameMode_C'
-[2018.06.30-03.33.37:246][747]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter5.Level_Chapter5 up for play (max tick rate 0) at 2018.06.29-23.33.37
-[2018.06.30-03.33.37:280][747]LogWorld: Bringing up level for play took: 0.038215
-[2018.06.30-03.33.37:490][747]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
-[2018.06.30-03.33.37:631][747]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter5 0.145
-[2018.06.30-03.35.42:728][568]Cmd: SELECT NONE
-[2018.06.30-03.35.46:942][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.06.30-03.35.47:403][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter5" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.06.30-03.35.48:259][786]LogSavePackage: Save=809.44ms
-[2018.06.30-03.35.48:259][786]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter553921737412811D8E82199B6B87945B9.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5.umap'
-[2018.06.30-03.35.48:292][786]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5.umap
-[2018.06.30-03.35.48:343][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter5_BuiltData" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5_BuiltData.uasset" SILENT=true
-[2018.06.30-03.35.48:406][786]LogSavePackage: Save=43.96ms
-[2018.06.30-03.35.48:406][786]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter5_BuiltData68B2A9CB402F72902D7890B82B5F7DF9.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5_BuiltData.uasset'
-[2018.06.30-03.35.48:408][786]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5_BuiltData.uasset
-[2018.06.30-03.35.52:475][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.06.30-03.35.53:899][248]LogSlate: Window 'Save Content' being destroyed
-[2018.06.30-03.35.53:914][248]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.06.30-03.35.53:948][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Grass_Inst" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_Grass_Inst.uasset" SILENT=true
-[2018.06.30-03.35.54:003][248]LogSavePackage: Save=43.11ms
-[2018.06.30-03.35.54:003][248]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/M_Grass_InstFB81954E40341646DCD72490F329157F.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_Grass_Inst.uasset'
-[2018.06.30-03.35.54:006][248]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_Grass_Inst.uasset
-[2018.06.30-03.35.54:022][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_GrassMaster" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_GrassMaster.uasset" SILENT=true
-[2018.06.30-03.35.54:056][248]LogSavePackage: Save=21.80ms
-[2018.06.30-03.35.54:056][248]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/M_GrassMasterCA494A2646C499DA4FD06290AEC696DD.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_GrassMaster.uasset'
-[2018.06.30-03.35.54:059][248]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_GrassMaster.uasset
-[2018.06.30-03.35.54:627][248]LogSlate: Window 'UE4forbeginners - Unreal Editor' being destroyed
-[2018.06.30-03.35.54:910][249]Cmd: QUIT_EDITOR
-[2018.06.30-03.35.56:044][249]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.06.30-03.35.56:090][249]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
-[2018.06.30-03.35.56:100][249]LogExit: Preparing to exit.
-[2018.06.30-03.35.57:088][249]LogExit: Editor shut down
-[2018.06.30-03.35.57:091][249]LogExit: Transaction tracking system shut down
-[2018.06.30-03.35.57:091][249]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002018c43db20, Size=72
-[2018.06.30-03.35.57:091][249]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002018c420b00, Size=256
-[2018.06.30-03.35.57:092][249]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002018cbafd00, Size=688
-[2018.06.30-03.35.57:108][249]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020195dcb8c8, Size=52
-[2018.06.30-03.35.57:310][249]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
-[2018.06.30-03.35.57:310][249]LogDirectoryWatcher: A directory notification for 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/' was aborted.
-[2018.06.30-03.35.57:310][249]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
-[2018.06.30-03.35.57:311][249]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
-[2018.06.30-03.35.57:311][249]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
-[2018.06.30-03.35.57:311][249]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
-[2018.06.30-03.35.57:311][249]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
-[2018.06.30-03.35.57:311][249]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
-[2018.06.30-03.35.58:436][249]LogExit: Object subsystem successfully closed.
-[2018.06.30-03.35.58:576][249]LogShaderCompilers: Display: Shaders left to compile 0
-[2018.06.30-03.35.58:592][249]LogD3D11RHI: Shutdown
-[2018.06.30-03.35.58:592][249]LogD3D11RHI: CleanupD3DDevice
-[2018.06.30-03.35.58:607][249]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.06.30-17.00.00:575][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.30-17.00.00:575][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.30-17.00.00:604][  0]LogInit: Computer: MAX-PC
+[2018.06.30-17.00.00:604][  0]LogInit: User: maxsa
+[2018.06.30-17.00.00:604][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.30-17.00.00:604][  0]LogInit: High frequency timer resolution =3.551563 MHz
+[2018.06.30-17.00.00:604][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.06.30-17.00.00:604][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.30-17.00.00:604][  0]LogMemory: Process Physical Memory: 272.74 MB used, 272.74 MB peak
+[2018.06.30-17.00.00:604][  0]LogMemory: Process Virtual Memory: 261.87 MB used, 261.87 MB peak
+[2018.06.30-17.00.00:604][  0]LogMemory: Physical Memory: 7872.25 MB used,  8462.61 MB free, 16334.86 MB total
+[2018.06.30-17.00.00:604][  0]LogMemory: Virtual Memory: 4775.99 MB used,  8462.61 MB free, 134217728.00 MB total
+[2018.06.30-17.00.00:625][  0]LogInit: Using OS detected language (en-US).
+[2018.06.30-17.00.00:625][  0]LogInit: Using OS detected locale (en-CA).
+[2018.06.30-17.00.00:628][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.06.30-17.00.01:045][  0]LogStreaming: Display: Took  0.420s to EndInitTextLocalization.
+[2018.06.30-17.00.01:045][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.30-17.00.01:079][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.30-17.00.01:079][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.30-17.00.01:283][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.30-17.00.01:349][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.06.30-17.00.01:349][  0]LogD3D11RHI:       8088/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.06.30-17.00.01:351][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.30-17.00.01:351][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.30-17.00.01:351][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.30-17.00.01:358][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.30-17.00.01:358][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.30-17.00.01:358][  0]LogWindows: EnumDisplayDevices:
+[2018.06.30-17.00.01:358][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.06.30-17.00.01:358][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.06.30-17.00.01:358][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.06.30-17.00.01:358][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.06.30-17.00.01:358][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.30-17.00.01:358][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.06.30-17.00.01:358][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.30-17.00.01:358][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.30-17.00.01:358][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.06.30-17.00.01:407][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.30-17.00.01:407][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.30-17.00.01:408][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.30-17.00.01:441][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.06.30-17.00.01:487][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Intermediate/Shaders/WorkingDirectory/6512/).
+[2018.06.30-17.00.01:488][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/maxsa/AppData/Local/Temp/UnrealShaderWorkingDir/BF849FA942128E81D502B7B872AA19A7/'.
+[2018.06.30-17.00.01:724][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.30-17.00.01:737][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.30-17.00.01:750][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.30-17.00.01:764][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.30-17.00.01:777][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.30-17.00.01:790][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.30-17.00.01:803][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.30-17.00.01:817][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.30-17.00.01:823][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.30-17.00.01:835][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.30-17.00.01:847][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.30-17.00.01:859][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.30-17.00.01:871][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.30-17.00.01:883][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.30-17.00.01:895][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.30-17.00.01:919][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.30-17.00.01:919][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.30-17.00.01:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.30-17.00.01:933][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.30-17.00.01:970][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.30-17.00.01:981][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.30-17.00.01:994][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.30-17.00.02:006][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.30-17.00.02:022][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.30-17.00.02:036][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.30-17.00.02:036][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.30-17.00.02:133][  0]LogXGEController: Cleaning working directory: C:/Users/maxsa/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.30-17.00.02:133][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.30-17.00.02:133][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.30-17.00.02:133][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.30-17.00.02:782][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.30-17.00.02:854][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/maxsa/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.30-17.00.02:854][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/maxsa/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.30-17.00.02:854][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.30-17.00.02:854][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.30-17.00.02:854][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.30-17.00.02:854][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.30-17.00.02:869][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.30-17.00.02:880][  0]LogDerivedDataCache: Using Local data cache path C:/Users/maxsa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.30-17.00.02:880][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.30-17.00.02:880][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.30-17.00.02:893][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.30-17.00.02:893][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.30-17.00.02:894][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.30-17.00.02:894][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.30-17.00.03:006][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2018.06.30-17.00.03:338][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.30-17.00.03:478][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.30-17.00.03:480][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.30-17.00.03:480][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.30-17.00.03:480][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.30-17.00.03:480][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.30-17.00.03:480][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.30-17.00.03:514][  0]LogNetVersion: UE4forbeginners , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 240379116)
+[2018.06.30-17.00.03:978][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.076484 seconds
+[2018.06.30-17.00.03:984][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.30-17.00.03:984][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.06.30-17.00.03:984][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.30-17.00.05:594][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.30-17.00.05:621][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.30-17.00.05:929][  0]SourceControl: Source control is disabled
+[2018.06.30-17.00.05:929][  0]SourceControl: Source control is disabled
+[2018.06.30-17.00.05:945][  0]SourceControl: Source control is disabled
+[2018.06.30-17.00.05:960][  0]SourceControl: Source control is disabled
+[2018.06.30-17.00.06:386][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.30-17.00.06:539][  0]LogOcInput: OculusInput pre-init called
+[2018.06.30-17.00.06:637][  0]LogEngine: Initializing Engine...
+[2018.06.30-17.00.06:640][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.06.30-17.00.06:642][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.30-17.00.06:642][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.30-17.00.06:849][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.30-17.00.06:927][  0]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.30-17.00.06:945][  0]LogInit: FAudioDevice initialized.
+[2018.06.30-17.00.06:987][  0]LogDerivedDataCache: Saved boot cache 0.04s 74MB C:/Users/maxsa/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.30-17.00.07:020][  0]LogInit: Texture streaming: Enabled
+[2018.06.30-17.00.07:035][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.30-17.00.07:046][  0]LogInit: Transaction tracking system initialized
+[2018.06.30-17.00.07:066][  0]BlueprintLog: New page: Editor Load
+[2018.06.30-17.00.07:130][  0]LocalizationService: Localization service is disabled
+[2018.06.30-17.00.07:223][  0]LogConsoleResponse: Display: 
+[2018.06.30-17.00.07:355][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.30-17.00.07:355][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.30-17.00.07:355][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.30-17.00.07:355][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.30-17.00.07:355][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.30-17.00.07:664][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/' took 0.02s
+[2018.06.30-17.00.07:664][  0]SourceControl: Source control is disabled
+[2018.06.30-17.00.07:664][  0]Cmd: MAP LOAD FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.30-17.00.07:664][  0]LightingResults: New page: Lighting Build
+[2018.06.30-17.00.07:667][  0]MapCheck: New page: Map Check
+[2018.06.30-17.00.07:667][  0]LightingResults: New page: Lighting Build
+[2018.06.30-17.00.07:716][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023807776e30, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.06.30-17.00.07:725][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023807776e30, Size=72
+[2018.06.30-17.00.07:725][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002380775f470, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.06.30-17.00.07:734][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002380b549fd0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.06.30-17.00.07:744][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002380b52a700, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.06.30-17.00.07:749][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002380b52a700, Size=256
+[2018.06.30-17.00.07:749][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002380b52a700, Size=256, Default__FirstPersonProjectile_C Function /Engine/Transient.REINST_FirstPersonProjectile_C_4:ExecuteUbergraph_FirstPersonProjectile
+[2018.06.30-17.00.07:752][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002380b528b00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.06.30-17.00.07:808][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002380c158a00, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.06.30-17.00.07:821][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002380c158a00, Size=688
+[2018.06.30-17.00.07:821][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002380bdb9c00, Size=688, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_6:ExecuteUbergraph_FirstPersonCharacter
+[2018.06.30-17.00.07:830][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002380bcfbd00, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.06.30-17.00.07:910][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023813013f90, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.06.30-17.00.07:913][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023813013f90, Size=52
+[2018.06.30-17.00.07:913][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023813013f90, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_10:ExecuteUbergraph_FirstPersonHUD
+[2018.06.30-17.00.07:915][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000238130138c8, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.06.30-17.00.08:086][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [5.597536ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.06.30-17.00.08:150][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [2.830022ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.06.30-17.00.08:159][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.06.30-17.00.08:172][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.30-17.00.08:186][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002380775f470, Size=72
+[2018.06.30-17.00.08:187][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002380b52a700, Size=256
+[2018.06.30-17.00.08:187][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002380bdb9c00, Size=688
+[2018.06.30-17.00.08:187][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023813013f90, Size=52
+[2018.06.30-17.00.08:188][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.30-17.00.08:240][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 52.313ms to complete.
+[2018.06.30-17.00.08:240][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.576
+[2018.06.30-17.00.08:380][  0]LogCollectionManager: Loaded 0 collections in 0.001445 seconds
+[2018.06.30-17.00.08:426][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Collections/' took 0.01s
+[2018.06.30-17.00.08:427][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Developers/maxsa/Collections/' took 0.01s
+[2018.06.30-17.00.08:427][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Collections/' took 0.01s
+[2018.06.30-17.00.08:427][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.06.30-17.00.08:436][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2452 classes and 558 folders.
+[2018.06.30-17.00.08:442][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.30-17.00.08:481][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.30-17.00.08:485][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.06.30-17.00.08:502][  0]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.30-17.00.08:504][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.30-17.00.08:510][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.30-17.00.08:610][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.06.30-17.00.08:764][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.06.30-17.00.08:764][  0]LogLoad: (Engine Initialization) Total time: 10.24 seconds
+[2018.06.30-17.00.08:764][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.30-17.00.09:126][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.30-17.00.09:165][  0]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.30-17.00.09:783][  2]LogAssetRegistry: Asset discovery search completed in 6.7989 seconds
+[2018.06.30-17.00.09:786][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.06.30-17.00.09:786][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000076 seconds (updated 0 objects)
+[2018.06.30-17.00.10:133][  3]LogSlate: Took 0.000417 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.30-17.00.15:103][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-17.00.20:727][659]Cmd: MAP LOAD FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.30-17.00.20:746][659]LightingResults: New page: Lighting Build
+[2018.06.30-17.00.20:748][659]LoadErrors: New page: Loading map: Level_Chapter5.umap
+[2018.06.30-17.00.20:766][659]MapCheck: New page: Map Check
+[2018.06.30-17.00.20:766][659]LightingResults: New page: Lighting Build
+[2018.06.30-17.00.21:060][659]LogAIModule: Creating AISystem for world Level_Chapter5
+[2018.06.30-17.00.21:100][659]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.30-17.00.21:136][659]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.30-17.00.21:196][659]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.542ms to complete.
+[2018.06.30-17.00.21:196][659]LogFileHelpers: Loading map 'Level_Chapter5' took 0.470
+[2018.06.30-17.00.21:198][659]LogSlate: Window 'Open Level' being destroyed
+[2018.06.30-17.00.28:502][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-17.00.29:031][517]LogMaterial: Missing cached shader map for material M_GrassMaster, compiling. 
+[2018.06.30-17.00.29:141][517]LogMaterial: Missing cached shader map for material M_GrassMaster, compiling. 
+[2018.06.30-17.00.29:155][517]LogMaterial: Missing cached shader map for material M_GrassMaster, compiling. 
+[2018.06.30-17.00.29:180][517]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.06.30-17.00.29:180][517]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.06.30-17.00.29:180][517]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.06.30-17.00.29:192][517]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.06.30-17.00.29:196][517]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.06.30-17.00.29:199][517]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.30-17.00.29:208][517]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.30-17.00.29:450][520]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.30-17.00.29:772][531]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.06.30-17.00.29:798][532]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.06.30-17.00.29:854][533]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.06.30-17.00.29:967][535]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.06.30-17.00.30:038][537]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.06.30-17.00.30:099][539]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.06.30-17.00.30:204][540]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.06.30-17.00.30:446][541]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.30-17.00.30:446][541]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.30-17.00.30:517][542]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.30-17.00.30:571][543]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.06.30-17.00.30:655][544]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.06.30-17.00.30:742][546]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.06.30-17.00.30:811][547]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.06.30-17.00.30:923][551]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.06.30-17.00.31:035][552]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.06.30-17.00.31:121][555]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.06.30-17.00.31:372][565]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.06.30-17.00.31:425][567]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.06.30-17.00.31:492][571]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.06.30-17.00.31:712][591]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.30-17.00.31:805][601]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.30-17.00.31:973][610]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.30-17.00.32:126][614]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.30-17.00.32:179][614]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.30-17.00.32:384][617]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.30-17.00.32:465][619]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.30-17.00.32:556][620]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.30-17.00.32:701][621]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.30-17.00.32:801][623]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.30-17.00.32:801][623]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.30-17.00.32:963][625]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.30-17.00.33:004][626]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.30-17.00.33:168][627]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.30-17.00.33:235][629]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.30-17.00.33:254][629]MaterialEditorStats: Base pass shader: 126 instructions
+[2018.06.30-17.00.33:254][629]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 215 instructions
+[2018.06.30-17.00.33:254][629]MaterialEditorStats: Vertex shader: 60 instructions
+[2018.06.30-17.00.33:254][629]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.30-17.00.33:254][629]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.30-17.00.33:254][629]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.30-17.00.33:371][631]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.30-17.00.33:459][632]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.30-17.00.36:370][834]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:222).
+[2018.06.30-17.00.36:804][886]LogSlate: Window 'GrassClump' being destroyed
+[2018.06.30-17.02.32:423][666]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2018.06.30-17.02.32:552][666]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.30-17.02.33:255][743]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2018.06.30-17.02.33:326][743]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.30-17.02.34:353][860]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.06.30-17.02.36:151][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-17.06.01:166][904]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2018.06.30-17.06.01:202][904]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.30-17.06.44:105][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-17.06.57:029][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-17.07.38:609][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-17.08.22:402][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-17.08.22:461][782]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.30-17.08.22:478][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.30-17.08.22:478][782]PIE: New page: PIE session: Level_Chapter5 (Jun 30, 2018, 9:08:22 AM)
+[2018.06.30-17.08.22:478][782]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter5
+[2018.06.30-17.08.22:539][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061346s)
+[2018.06.30-17.08.22:540][782]LogAIModule: Creating AISystem for world Level_Chapter5
+[2018.06.30-17.08.22:541][782]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2018.06.30-17.08.22:541][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter5.Level_Chapter5 to /Game/Maps/UEDPIE_0_Level_Chapter5.Level_Chapter5 (0.062598s)
+[2018.06.30-17.08.22:574][782]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.30-17.08.22:587][782]LogInit: FAudioDevice initialized.
+[2018.06.30-17.08.22:637][782]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.06.30-17.08.22:643][782]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter5.Level_Chapter5 up for play (max tick rate 0) at 2018.06.30-13.08.22
+[2018.06.30-17.08.22:643][782]LogWorld: Bringing up level for play took: 0.005392
+[2018.06.30-17.08.22:647][782]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.06.30-17.08.22:650][782]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter5 1.165
+[2018.06.30-17.08.35:100][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-17.10.06:547][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-17.10.06:647][200]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2018.06.30-17.10.31:827][348]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2018.06.30-17.10.31:868][348]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.30-17.10.32:590][404]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2018.06.30-17.10.32:632][404]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.30-17.10.33:302][454]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2018.06.30-17.10.33:341][454]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.30-17.10.34:057][510]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2018.06.30-17.10.34:099][510]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.30-17.10.43:917][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-17.11.09:077][ 24]LogSlate: Window 'Color Picker' being destroyed
+[2018.06.30-17.11.12:160][276]LogSlate: Window 'Color Picker' being destroyed
+[2018.06.30-17.11.39:019][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter5" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.30-17.11.39:842][583]LogSavePackage: Save=793.55ms
+[2018.06.30-17.11.39:842][583]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter523B31CD3496C2E15F562C8A565886AF2.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5.umap'
+[2018.06.30-17.11.39:848][583]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5.umap
+[2018.06.30-17.11.39:882][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter5_BuiltData" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5_BuiltData.uasset" SILENT=true
+[2018.06.30-17.11.39:941][583]LogSavePackage: Save=44.69ms
+[2018.06.30-17.11.39:941][583]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter5_BuiltDataF01B2F49442AADF5C1F39D99CC6C98DD.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5_BuiltData.uasset'
+[2018.06.30-17.11.39:942][583]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5_BuiltData.uasset
+[2018.06.30-17.11.40:977][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-17.11.41:098][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Grass_Inst" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_Grass_Inst.uasset" SILENT=true
+[2018.06.30-17.11.41:129][670]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Grass_Inst, compiling. 
+[2018.06.30-17.11.41:535][670]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.30-17.11.41:546][670]TextureStreamingBuild: Display: Compiling optional shaders took 0.430 seconds.
+[2018.06.30-17.11.41:620][670]LogSavePackage: Save=15.07ms
+[2018.06.30-17.11.41:620][670]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/M_Grass_Inst2FB15F8A4972D5C010D9558284BCB22E.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_Grass_Inst.uasset'
+[2018.06.30-17.11.41:622][670]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_Grass_Inst.uasset
+[2018.06.30-17.11.42:822][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-17.11.42:910][775]LogSlate: Window 'M_Grass_Inst' being destroyed
+[2018.06.30-17.11.42:912][775]LogSlate: Window 'M_Grass_Inst' being destroyed
+[2018.06.30-17.11.43:873][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-17.11.43:968][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter5" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.30-17.11.44:761][870]LogSavePackage: Save=776.26ms
+[2018.06.30-17.11.44:761][870]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter5190334B54F81776CD324D98D0D48F3E4.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5.umap'
+[2018.06.30-17.11.44:763][870]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5.umap
+[2018.06.30-17.11.44:787][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter5_BuiltData" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5_BuiltData.uasset" SILENT=true
+[2018.06.30-17.11.44:832][870]LogSavePackage: Save=38.22ms
+[2018.06.30-17.11.44:832][870]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter5_BuiltDataEF71380E4F6BE1B04A3CEC9FA034ED64.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5_BuiltData.uasset'
+[2018.06.30-17.11.44:833][870]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5_BuiltData.uasset
+[2018.06.30-17.11.47:001][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-17.11.47:081][ 90]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.30-17.11.47:096][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.30-17.11.47:096][ 90]PIE: New page: PIE session: Level_Chapter5 (Jun 30, 2018, 9:11:47 AM)
+[2018.06.30-17.11.47:096][ 90]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter5
+[2018.06.30-17.11.47:134][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038401s)
+[2018.06.30-17.11.47:135][ 90]LogAIModule: Creating AISystem for world Level_Chapter5
+[2018.06.30-17.11.47:136][ 90]LogPlayLevel: PIE: World Init took: (0.001152s)
+[2018.06.30-17.11.47:136][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter5.Level_Chapter5 to /Game/Maps/UEDPIE_0_Level_Chapter5.Level_Chapter5 (0.039745s)
+[2018.06.30-17.11.47:157][ 90]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.30-17.11.47:169][ 90]LogInit: FAudioDevice initialized.
+[2018.06.30-17.11.47:201][ 90]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.06.30-17.11.47:207][ 90]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter5.Level_Chapter5 up for play (max tick rate 0) at 2018.06.30-13.11.47
+[2018.06.30-17.11.47:207][ 90]LogWorld: Bringing up level for play took: 0.005337
+[2018.06.30-17.11.47:211][ 90]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter5 -0.275
+[2018.06.30-17.12.50:541][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-17.12.51:536][371]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.06.30-17.13.38:075][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter5" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.30-17.13.38:865][ 83]LogSavePackage: Save=772.60ms
+[2018.06.30-17.13.38:865][ 83]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter5DC6680EE4AC2B834E8F76287E20822E8.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5.umap'
+[2018.06.30-17.13.38:867][ 83]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5.umap
+[2018.06.30-17.13.38:890][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter5_BuiltData" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5_BuiltData.uasset" SILENT=true
+[2018.06.30-17.13.38:930][ 83]LogSavePackage: Save=32.98ms
+[2018.06.30-17.13.38:930][ 83]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter5_BuiltDataDF8E6053471CD58453CB2A9181888EE8.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5_BuiltData.uasset'
+[2018.06.30-17.13.38:932][ 83]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5_BuiltData.uasset
