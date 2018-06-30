@@ -2749,3 +2749,165 @@ LogInit: Object subsystem initialized
 [2018.06.30-18.00.16:247][376]LogSavePackage: Save=33.93ms
 [2018.06.30-18.00.16:247][376]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter5_BuiltData7035505F413917B95D6574BDF7F04CD6.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5_BuiltData.uasset'
 [2018.06.30-18.00.16:249][376]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5_BuiltData.uasset
+[2018.06.30-18.10.16:034][665]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_Chapter5' took 0.014
+[2018.06.30-18.10.16:036][665]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_GrassMaster] ([1] browsable assets)...
+[2018.06.30-18.10.16:051][665]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_GrassMaster.M_GrassMaster]
+[2018.06.30-18.10.16:051][665]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_GrassMaster]
+[2018.06.30-18.10.16:086][665]LogSavePackage: Save=19.46ms
+[2018.06.30-18.10.16:086][665]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/M_GrassMaster_Auto30BA61F974DA7F490D23C81B2D5B35DE8.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Autosaves/Game/Materials/M_GrassMaster_Auto3.uasset'
+[2018.06.30-18.10.16:087][665]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Autosaves/Game/Materials/M_GrassMaster_Auto3.uasset
+[2018.06.30-18.10.16:087][665]LogFileHelpers: Auto-saving content packages took 0.052
+[2018.06.30-19.31.41:099][369]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.30-19.33.12:278][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-19.33.13:655][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree)
+[2018.06.30-19.33.15:255][500]Cmd: DELETE
+[2018.06.30-19.33.15:255][500]Cmd: ACTOR DELETE
+[2018.06.30-19.33.15:284][500]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.30-19.33.15:295][500]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2018.06.30-19.33.22:168][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-19.35.22:503][874]LogSavePackage: Save=779.08ms
+[2018.06.30-19.35.22:503][874]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter5_Auto4F92B2D61422C7F11A59075AA17D35742.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Autosaves/Game/Maps/Level_Chapter5_Auto4.umap'
+[2018.06.30-19.35.22:504][874]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Autosaves/Game/Maps/Level_Chapter5_Auto4.umap
+[2018.06.30-19.35.22:506][874]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_Chapter5' took 0.815
+[2018.06.30-19.35.22:506][874]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.815
+[2018.06.30-19.35.49:793][710]LogMaterial: Warning: Material /Game/Materials/M_Bark.M_Bark needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.06.30-19.35.49:797][710]LogMaterial: Missing cached shader map for material M_Bark, compiling. 
+[2018.06.30-19.35.49:810][710]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.06.30-19.35.49:811][710]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.06.30-19.35.49:811][710]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.06.30-19.35.49:811][710]LogMaterial: Warning: Material /Game/Materials/M_Branch.M_Branch needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.06.30-19.35.49:815][710]LogMaterial: Missing cached shader map for material M_Branch, compiling. 
+[2018.06.30-19.35.49:844][710]LogMaterial: Warning: Material /Game/Materials/M_TreeFront.M_TreeFront needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.06.30-19.35.49:847][710]LogMaterial: Missing cached shader map for material M_TreeFront, compiling. 
+[2018.06.30-19.35.51:854][748]LogShaderCompilers: Display: Shaders left to compile 193
+[2018.06.30-19.35.51:986][749]LogShaderCompilers: Display: Shaders left to compile 183
+[2018.06.30-19.35.52:733][749]LogShaderCompilers: Display: Shaders left to compile 173
+[2018.06.30-19.35.53:516][751]LogShaderCompilers: Display: Shaders left to compile 163
+[2018.06.30-19.35.54:365][752]LogShaderCompilers: Display: Shaders left to compile 153
+[2018.06.30-19.35.55:191][755]LogShaderCompilers: Display: Shaders left to compile 143
+[2018.06.30-19.35.55:191][755]LogShaderCompilers: Display: Shaders left to compile 133
+[2018.06.30-19.35.56:567][755]LogShaderCompilers: Display: Shaders left to compile 123
+[2018.06.30-19.35.56:908][757]LogShaderCompilers: Display: Shaders left to compile 113
+[2018.06.30-19.35.57:008][758]LogShaderCompilers: Display: Shaders left to compile 103
+[2018.06.30-19.35.58:578][759]LogShaderCompilers: Display: Shaders left to compile 93
+[2018.06.30-19.35.58:871][760]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.06.30-19.35.59:697][761]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.06.30-19.36.00:188][762]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.06.30-19.36.00:612][765]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.06.30-19.36.01:226][766]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.06.30-19.36.02:351][767]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.06.30-19.36.02:739][768]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.06.30-19.36.02:869][770]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.30-19.36.04:072][772]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.30-19.38.10:051][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-19.38.10:135][815]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.30-19.38.10:160][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.30-19.38.10:160][815]PIE: New page: PIE session: Level_Chapter5 (Jun 30, 2018, 11:38:10 AM)
+[2018.06.30-19.38.10:160][815]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter5
+[2018.06.30-19.38.10:222][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061929s)
+[2018.06.30-19.38.10:223][815]LogAIModule: Creating AISystem for world Level_Chapter5
+[2018.06.30-19.38.10:224][815]LogPlayLevel: PIE: World Init took: (0.001464s)
+[2018.06.30-19.38.10:224][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter5.Level_Chapter5 to /Game/Maps/UEDPIE_0_Level_Chapter5.Level_Chapter5 (0.063646s)
+[2018.06.30-19.38.10:249][815]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.30-19.38.10:263][815]LogInit: FAudioDevice initialized.
+[2018.06.30-19.38.10:297][815]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.06.30-19.38.10:304][815]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter5.Level_Chapter5 up for play (max tick rate 0) at 2018.06.30-15.38.10
+[2018.06.30-19.38.10:305][815]LogWorld: Bringing up level for play took: 0.006470
+[2018.06.30-19.38.10:310][815]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter5 0.825
+[2018.06.30-19.38.50:577][316]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.30-19.38.57:786][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-19.38.57:852][125]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.30-19.38.57:868][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.30-19.38.57:868][125]PIE: New page: PIE session: Level_Chapter5 (Jun 30, 2018, 11:38:57 AM)
+[2018.06.30-19.38.57:868][125]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter5
+[2018.06.30-19.38.57:908][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040361s)
+[2018.06.30-19.38.57:909][125]LogAIModule: Creating AISystem for world Level_Chapter5
+[2018.06.30-19.38.57:909][125]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2018.06.30-19.38.57:909][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter5.Level_Chapter5 to /Game/Maps/UEDPIE_0_Level_Chapter5.Level_Chapter5 (0.041519s)
+[2018.06.30-19.38.57:936][125]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.30-19.38.57:950][125]LogInit: FAudioDevice initialized.
+[2018.06.30-19.38.57:992][125]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.06.30-19.38.58:016][125]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter5.Level_Chapter5 up for play (max tick rate 0) at 2018.06.30-15.38.58
+[2018.06.30-19.38.58:017][125]LogWorld: Bringing up level for play took: 0.024126
+[2018.06.30-19.38.58:019][125]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter5 0.534
+[2018.06.30-19.40.17:216][577]Cmd: SELECT NONE
+[2018.06.30-19.41.04:776][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-19.41.33:068][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-19.41.33:134][874]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.30-19.41.33:150][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.30-19.41.33:150][874]PIE: New page: PIE session: Level_Chapter5 (Jun 30, 2018, 11:41:33 AM)
+[2018.06.30-19.41.33:150][874]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter5
+[2018.06.30-19.41.33:194][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043489s)
+[2018.06.30-19.41.33:194][874]LogAIModule: Creating AISystem for world Level_Chapter5
+[2018.06.30-19.41.33:194][874]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2018.06.30-19.41.33:194][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter5.Level_Chapter5 to /Game/Maps/UEDPIE_0_Level_Chapter5.Level_Chapter5 (0.044540s)
+[2018.06.30-19.41.33:217][874]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.30-19.41.33:229][874]LogInit: FAudioDevice initialized.
+[2018.06.30-19.41.33:262][874]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.06.30-19.41.33:269][874]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter5.Level_Chapter5 up for play (max tick rate 0) at 2018.06.30-15.41.33
+[2018.06.30-19.41.33:269][874]LogWorld: Bringing up level for play took: 0.006793
+[2018.06.30-19.41.33:272][874]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter5 -0.214
+[2018.06.30-19.44.42:543][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-19.44.42:647][222]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2018.06.30-19.44.58:467][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-19.45.12:391][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-19.45.36:675][ 89]Cmd: TRANSACTION UNDO
+[2018.06.30-19.45.36:675][ 89]LogEditorTransaction: Undo Landscape Editing: Paint
+[2018.06.30-19.45.36:691][ 89]LogTexture: Display: Building textures: Texture2D_122 (BGRA8, 32X32)
+[2018.06.30-19.45.36:710][ 89]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 32X32)
+[2018.06.30-19.45.37:657][152]Cmd: TRANSACTION UNDO
+[2018.06.30-19.45.37:657][152]LogEditorTransaction: Undo Landscape Editing: Paint
+[2018.06.30-19.45.37:665][152]LogTexture: Display: Building textures: Texture2D_122 (BGRA8, 32X32)
+[2018.06.30-19.45.37:687][152]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 32X32)
+[2018.06.30-19.45.39:690][354]Cmd: TRANSACTION UNDO
+[2018.06.30-19.45.39:691][354]LogEditorTransaction: Undo Landscape Editing: Paint
+[2018.06.30-19.45.39:730][354]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 32X32)
+[2018.06.30-19.45.42:134][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-19.46.40:659][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-19.46.43:822][398]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 32X32)
+[2018.06.30-19.46.43:822][398]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 32X32)
+[2018.06.30-19.46.43:823][398]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 32X32)
+[2018.06.30-19.46.43:823][398]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 32X32)
+[2018.06.30-19.46.43:824][398]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 32X32)
+[2018.06.30-19.46.43:824][398]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 32X32)
+[2018.06.30-19.46.43:824][398]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 32X32)
+[2018.06.30-19.46.43:825][398]LogTexture: Display: Building textures: Texture2D_122 (BGRA8, 32X32)
+[2018.06.30-19.46.43:825][398]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 32X32)
+[2018.06.30-19.46.43:825][398]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 32X32)
+[2018.06.30-19.46.43:826][398]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 32X32)
+[2018.06.30-19.46.43:826][398]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 32X32)
+[2018.06.30-19.46.43:826][398]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 32X32)
+[2018.06.30-19.46.43:827][398]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 32X32)
+[2018.06.30-19.46.43:827][398]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 32X32)
+[2018.06.30-19.46.43:827][398]LogTexture: Display: Building textures: Texture2D_125 (BGRA8, 32X32)
+[2018.06.30-19.46.44:592][398]LogSavePackage: Save=787.29ms
+[2018.06.30-19.46.44:592][398]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter5_Auto50B14992B4A6BC39BFA15FCB43CC426D3.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Autosaves/Game/Maps/Level_Chapter5_Auto5.umap'
+[2018.06.30-19.46.44:593][398]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Autosaves/Game/Maps/Level_Chapter5_Auto5.umap
+[2018.06.30-19.46.44:595][398]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_Chapter5' took 0.823
+[2018.06.30-19.46.44:595][398]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.823
+[2018.06.30-19.46.44:596][398]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/M_Bark] ([1] browsable assets)...
+[2018.06.30-19.46.44:597][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Bark]
+[2018.06.30-19.46.44:597][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bark" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Autosaves/Game/Materials/M_Bark_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2018.06.30-19.46.44:625][398]LogSavePackage: Save=10.20ms
+[2018.06.30-19.46.44:625][398]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/M_Bark_Auto582FE55CE4C44CA06205F5E8BF31F8642.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Autosaves/Game/Materials/M_Bark_Auto5.uasset'
+[2018.06.30-19.46.44:626][398]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Autosaves/Game/Materials/M_Bark_Auto5.uasset
+[2018.06.30-19.46.44:627][398]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/M_Branch] ([1] browsable assets)...
+[2018.06.30-19.46.44:627][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Branch]
+[2018.06.30-19.46.44:653][398]LogSavePackage: Save=10.86ms
+[2018.06.30-19.46.44:654][398]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/M_Branch_Auto5D7D2180041E52C3A1A9F81BEA47A605D.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Autosaves/Game/Materials/M_Branch_Auto5.uasset'
+[2018.06.30-19.46.44:655][398]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Autosaves/Game/Materials/M_Branch_Auto5.uasset
+[2018.06.30-19.46.44:655][398]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/M_TreeFront] ([1] browsable assets)...
+[2018.06.30-19.46.44:655][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_TreeFront]
+[2018.06.30-19.46.44:673][398]LogSavePackage: Save=5.65ms
+[2018.06.30-19.46.44:673][398]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/M_TreeFront_Auto5FC417A7140A2E915E11C448040892F3C.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Autosaves/Game/Materials/M_TreeFront_Auto5.uasset'
+[2018.06.30-19.46.44:674][398]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Autosaves/Game/Materials/M_TreeFront_Auto5.uasset
+[2018.06.30-19.46.44:674][398]LogFileHelpers: Auto-saving content packages took 0.078
+[2018.06.30-19.47.10:039][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.30-19.47.10:044][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter5" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.30-19.47.10:837][ 14]LogSavePackage: Save=776.47ms
+[2018.06.30-19.47.10:837][ 14]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter50D268A6D47D3E0CE26A806AB9BD19B35.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5.umap'
+[2018.06.30-19.47.10:845][ 14]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5.umap
+[2018.06.30-19.47.10:872][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter5_BuiltData" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5_BuiltData.uasset" SILENT=true
+[2018.06.30-19.47.10:929][ 14]LogSavePackage: Save=38.58ms
+[2018.06.30-19.47.10:929][ 14]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter5_BuiltData7D939CED4BB3458972DED1BE4E6AF2BE.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5_BuiltData.uasset'
+[2018.06.30-19.47.10:931][ 14]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5_BuiltData.uasset
