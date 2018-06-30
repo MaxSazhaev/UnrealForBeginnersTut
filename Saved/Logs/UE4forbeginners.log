@@ -2911,3 +2911,41 @@ LogInit: Object subsystem initialized
 [2018.06.30-19.47.10:929][ 14]LogSavePackage: Save=38.58ms
 [2018.06.30-19.47.10:929][ 14]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter5_BuiltData7D939CED4BB3458972DED1BE4E6AF2BE.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5_BuiltData.uasset'
 [2018.06.30-19.47.10:931][ 14]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5_BuiltData.uasset
+[2018.06.30-19.48.02:911][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-19.48.22:430][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-19.50.03:821][651]LogMaterial: Warning: Material /Game/Materials/M_Rock.M_Rock needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.06.30-19.50.03:823][651]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2018.06.30-19.50.03:839][651]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.06.30-19.50.03:839][651]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.06.30-19.50.03:839][651]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.06.30-19.50.05:791][689]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.30-19.50.05:867][690]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.30-19.50.31:331][442]Cmd: TRANSACTION UNDO
+[2018.06.30-19.50.31:331][442]LogEditorTransaction: Undo Foliage Editing
+[2018.06.30-19.51.00:615][605]Cmd: TRANSACTION UNDO
+[2018.06.30-19.51.00:615][605]LogEditorTransaction: Undo Foliage Editing
+[2018.06.30-19.51.02:662][703]Cmd: TRANSACTION UNDO
+[2018.06.30-19.51.02:662][703]LogEditorTransaction: Undo Foliage Editing
+[2018.06.30-19.51.04:096][737]Cmd: TRANSACTION UNDO
+[2018.06.30-19.51.04:096][737]LogEditorTransaction: Undo Foliage Editing
+[2018.06.30-19.51.30:167][391]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.30-19.51.31:747][569]Cmd: TRANSACTION UNDO
+[2018.06.30-19.51.31:747][569]LogEditorTransaction: Undo Foliage Editing
+[2018.06.30-19.53.12:061][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-19.53.16:627][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter5" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.30-19.53.17:447][649]LogSavePackage: Save=787.37ms
+[2018.06.30-19.53.17:447][649]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter57CFC710447A68FFB63F58DBFD626C073.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5.umap'
+[2018.06.30-19.53.17:451][649]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5.umap
+[2018.06.30-19.53.17:479][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter5_BuiltData" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5_BuiltData.uasset" SILENT=true
+[2018.06.30-19.53.17:530][649]LogSavePackage: Save=34.86ms
+[2018.06.30-19.53.17:530][649]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter5_BuiltDataE9729B3D42406F5DF4A903A01D36C378.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5_BuiltData.uasset'
+[2018.06.30-19.53.17:532][649]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5_BuiltData.uasset
+[2018.06.30-19.54.22:120][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-19.54.22:805][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter5" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.30-19.54.23:598][876]LogSavePackage: Save=776.28ms
+[2018.06.30-19.54.23:599][876]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter52BB640654BEF0345A3011BAFBD74FA05.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5.umap'
+[2018.06.30-19.54.23:601][876]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5.umap
+[2018.06.30-19.54.23:625][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter5_BuiltData" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5_BuiltData.uasset" SILENT=true
+[2018.06.30-19.54.23:665][876]LogSavePackage: Save=32.87ms
+[2018.06.30-19.54.23:665][876]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter5_BuiltData5E300E284D3A3920DAFAC2A565657D00.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5_BuiltData.uasset'
+[2018.06.30-19.54.23:667][876]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter5_BuiltData.uasset
