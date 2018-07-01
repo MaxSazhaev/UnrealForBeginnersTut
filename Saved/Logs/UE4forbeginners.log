@@ -549,3 +549,59 @@ LogInit: Object subsystem initialized
 [2018.07.01-17.06.26:508][148]LogSavePackage: Save=33.90ms
 [2018.07.01-17.06.26:508][148]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter6_BuiltData3959CE3741B98E80F291959009E75E5C.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6_BuiltData.uasset'
 [2018.07.01-17.06.26:509][148]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6_BuiltData.uasset
+[2018.07.01-17.07.54:863][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-17.09.36:860][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-17.09.45:744][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-17.10.03:207][332]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.07.01-17.10.30:132][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (firelogs)
+[2018.07.01-17.10.36:647][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-17.10.43:729][568]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.07.01-17.11.31:669][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-17.11.50:517][445]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.01-17.11.59:528][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-17.11.59:584][280]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.01-17.12.10:947][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-17.13.12:822][498]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.01-17.13.23:466][319]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.01-17.13.28:131][745]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.01-17.13.44:127][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-17.14.30:193][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-17.14.38:114][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-17.14.50:416][823]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.01-17.14.55:881][333]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.01-17.14.57:190][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-17.15.06:519][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-17.15.44:062][106]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.07.01-17.16.26:296][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-17.16.26:332][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter6" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.01-17.16.27:159][106]LogSavePackage: Save=791.14ms
+[2018.07.01-17.16.27:159][106]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter6380F5FF1479668162984398CC5211940.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6.umap'
+[2018.07.01-17.16.27:162][106]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6.umap
+[2018.07.01-17.16.27:187][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter6_BuiltData" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6_BuiltData.uasset" SILENT=true
+[2018.07.01-17.16.27:236][106]LogSavePackage: Save=33.53ms
+[2018.07.01-17.16.27:236][106]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter6_BuiltData1F622360493964645F730482DFB38393.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6_BuiltData.uasset'
+[2018.07.01-17.16.27:238][106]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6_BuiltData.uasset
+[2018.07.01-17.16.28:110][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-17.16.28:178][188]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.01-17.16.28:193][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.01-17.16.28:193][188]PIE: New page: PIE session: Level_Chapter6 (Jul 1, 2018, 9:16:28 AM)
+[2018.07.01-17.16.28:193][188]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter6
+[2018.07.01-17.16.28:233][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039465s)
+[2018.07.01-17.16.28:233][188]LogAIModule: Creating AISystem for world Level_Chapter6
+[2018.07.01-17.16.28:234][188]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2018.07.01-17.16.28:234][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter6.Level_Chapter6 to /Game/Maps/UEDPIE_0_Level_Chapter6.Level_Chapter6 (0.040445s)
+[2018.07.01-17.16.28:257][188]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.01-17.16.28:269][188]LogInit: FAudioDevice initialized.
+[2018.07.01-17.16.28:303][188]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.01-17.16.28:310][188]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter6.Level_Chapter6 up for play (max tick rate 0) at 2018.07.01-13.16.28
+[2018.07.01-17.16.28:311][188]LogWorld: Bringing up level for play took: 0.007562
+[2018.07.01-17.16.28:314][188]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter6 0.829
+[2018.07.01-17.17.00:865][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-17.17.01:539][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter6" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.01-17.17.02:335][ 79]LogSavePackage: Save=779.36ms
+[2018.07.01-17.17.02:335][ 79]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter6EBEDF2114AA23AB8D85A449FE182A9C6.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6.umap'
+[2018.07.01-17.17.02:337][ 79]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6.umap
+[2018.07.01-17.17.02:361][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter6_BuiltData" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6_BuiltData.uasset" SILENT=true
+[2018.07.01-17.17.02:402][ 79]LogSavePackage: Save=33.14ms
+[2018.07.01-17.17.02:402][ 79]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter6_BuiltDataC01C54F944E4E4F940463EBFE9B126C4.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6_BuiltData.uasset'
+[2018.07.01-17.17.02:404][ 79]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6_BuiltData.uasset
