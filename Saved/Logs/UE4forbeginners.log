@@ -1427,3 +1427,127 @@ LogInit: Object subsystem initialized
 [2018.07.01-17.58.55:104][642]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter6_BuiltData3D65A2C74858BB49C0844EB6856E7879.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6_BuiltData.uasset'
 [2018.07.01-17.58.55:107][642]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6_BuiltData.uasset
 [2018.07.01-17.59.33:530][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-18.01.07:717][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-18.01.19:091][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-18.01.32:736][365]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.01-18.01.39:444][ 79]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.01-18.01.52:843][560]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.01-18.01.54:670][749]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.01-18.01.57:769][ 69]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.07.01-18.02.02:016][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-18.02.13:106][555]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.01-18.02.14:661][699]LogSlate: Window 'M_Grass_Inst' being destroyed
+[2018.07.01-18.02.14:665][699]LogSlate: Window 'M_Grass_Inst' being destroyed
+[2018.07.01-18.02.16:993][967]Cmd: SELECT NONE
+[2018.07.01-18.02.33:266][903]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.07.01-18.02.37:036][345]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.07.01-18.02.44:759][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (firelogs)
+[2018.07.01-18.02.48:152][470]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.07.01-18.02.55:168][211]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.01-18.03.01:267][835]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.01-18.03.17:568][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-18.03.20:727][345]LogEditorActor: Deleted Actor: AtmosphericFog
+[2018.07.01-18.03.20:741][345]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2018.07.01-18.04.00:008][741]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.01-18.04.08:684][609]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.01-18.04.11:913][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-18.05.10:490][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-18.05.23:365][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-18.05.23:440][504]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.01-18.05.23:455][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.01-18.05.23:455][504]PIE: New page: PIE session: Level_Chapter6 (Jul 1, 2018, 10:05:23 AM)
+[2018.07.01-18.05.23:455][504]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter6
+[2018.07.01-18.05.23:497][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041624s)
+[2018.07.01-18.05.23:497][504]LogAIModule: Creating AISystem for world Level_Chapter6
+[2018.07.01-18.05.23:498][504]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2018.07.01-18.05.23:498][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter6.Level_Chapter6 to /Game/Maps/UEDPIE_0_Level_Chapter6.Level_Chapter6 (0.042626s)
+[2018.07.01-18.05.23:518][504]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.01-18.05.23:531][504]LogInit: FAudioDevice initialized.
+[2018.07.01-18.05.23:564][504]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.01-18.05.23:573][504]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter6.Level_Chapter6 up for play (max tick rate 0) at 2018.07.01-14.05.23
+[2018.07.01-18.05.23:573][504]LogWorld: Bringing up level for play took: 0.008460
+[2018.07.01-18.05.23:576][504]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter6 0.091
+[2018.07.01-18.05.56:589][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-18.09.22:585][276]LogSavePackage: Save=919.45ms
+[2018.07.01-18.09.22:585][276]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter6_Auto3E35B5FC44CA0BFAB8471F48E7226C3C6.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Autosaves/Game/Maps/Level_Chapter6_Auto3.umap'
+[2018.07.01-18.09.22:587][276]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Autosaves/Game/Maps/Level_Chapter6_Auto3.umap
+[2018.07.01-18.09.22:591][276]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_Chapter6' took 0.970
+[2018.07.01-18.09.22:591][276]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.970
+[2018.07.01-18.09.22:592][276]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Grass_Inst] ([1] browsable assets)...
+[2018.07.01-18.09.22:612][276]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Materials/M_Grass_Inst.M_Grass_Inst]
+[2018.07.01-18.09.22:612][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Grass_Inst]
+[2018.07.01-18.09.22:673][276]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Grass_Inst, compiling. 
+[2018.07.01-18.09.23:367][276]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.01-18.09.23:369][276]TextureStreamingBuild: Display: Compiling optional shaders took 0.731 seconds.
+[2018.07.01-18.09.23:411][276]LogSavePackage: Save=16.14ms
+[2018.07.01-18.09.23:411][276]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/M_Grass_Inst_Auto39C0B2C6B48AFCDAEEB5145A58CAFF267.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Autosaves/Game/Materials/M_Grass_Inst_Auto3.uasset'
+[2018.07.01-18.09.23:413][276]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Autosaves/Game/Materials/M_Grass_Inst_Auto3.uasset
+[2018.07.01-18.09.23:413][276]LogFileHelpers: Auto-saving content packages took 0.821
+[2018.07.01-18.09.28:382][550]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.01-18.09.29:474][669]LogSlate: Window 'M_Grass_Inst*' being destroyed
+[2018.07.01-18.09.29:477][669]LogSlate: Window 'M_Grass_Inst*' being destroyed
+[2018.07.01-18.09.29:498][669]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.01-18.09.29:506][669]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Grass_Inst, compiling. 
+[2018.07.01-18.09.29:686][669]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.01-18.09.29:688][669]TextureStreamingBuild: Display: Compiling optional shaders took 0.185 seconds.
+[2018.07.01-18.09.33:477][ 91]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.07.01-18.09.43:174][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-18.10.24:570][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter6" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.01-18.10.25:364][782]LogSavePackage: Save=776.64ms
+[2018.07.01-18.10.25:364][782]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter6093AA95C4838E8D58DD1F08242A50AC0.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6.umap'
+[2018.07.01-18.10.25:370][782]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6.umap
+[2018.07.01-18.10.25:394][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter6_BuiltData" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6_BuiltData.uasset" SILENT=true
+[2018.07.01-18.10.25:443][782]LogSavePackage: Save=33.86ms
+[2018.07.01-18.10.25:443][782]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter6_BuiltData3599036A477CAC47EBE74DB32F41741C.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6_BuiltData.uasset'
+[2018.07.01-18.10.25:445][782]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6_BuiltData.uasset
+[2018.07.01-18.10.26:790][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-18.10.26:838][937]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2018.07.01-18.10.50:648][712]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.01-18.10.50:653][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter6" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.01-18.10.51:455][712]LogSavePackage: Save=785.39ms
+[2018.07.01-18.10.51:455][712]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter669069E204607A82A314DC4AE9FB743D0.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6.umap'
+[2018.07.01-18.10.51:457][712]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6.umap
+[2018.07.01-18.10.51:481][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter6_BuiltData" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6_BuiltData.uasset" SILENT=true
+[2018.07.01-18.10.51:521][712]LogSavePackage: Save=33.42ms
+[2018.07.01-18.10.51:521][712]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter6_BuiltDataA5C4FB214D3508E023C60F9C8E3DD872.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6_BuiltData.uasset'
+[2018.07.01-18.10.51:523][712]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6_BuiltData.uasset
+[2018.07.01-18.10.52:383][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-18.10.52:481][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter6" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.01-18.10.53:274][821]LogSavePackage: Save=776.37ms
+[2018.07.01-18.10.53:274][821]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter61FED25F9416CBE391E0BF783640EC90E.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6.umap'
+[2018.07.01-18.10.53:276][821]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6.umap
+[2018.07.01-18.10.53:300][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter6_BuiltData" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6_BuiltData.uasset" SILENT=true
+[2018.07.01-18.10.53:341][821]LogSavePackage: Save=33.25ms
+[2018.07.01-18.10.53:341][821]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter6_BuiltData1B18127F48848858BA6CD08F745FB07E.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6_BuiltData.uasset'
+[2018.07.01-18.10.53:342][821]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6_BuiltData.uasset
+[2018.07.01-18.10.54:899][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-18.10.54:991][ 12]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.01-18.10.55:005][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.01-18.10.55:006][ 12]PIE: New page: PIE session: Level_Chapter6 (Jul 1, 2018, 10:10:55 AM)
+[2018.07.01-18.10.55:006][ 12]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter6
+[2018.07.01-18.10.55:044][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037896s)
+[2018.07.01-18.10.55:044][ 12]LogAIModule: Creating AISystem for world Level_Chapter6
+[2018.07.01-18.10.55:045][ 12]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2018.07.01-18.10.55:045][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter6.Level_Chapter6 to /Game/Maps/UEDPIE_0_Level_Chapter6.Level_Chapter6 (0.038891s)
+[2018.07.01-18.10.55:065][ 12]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.01-18.10.55:077][ 12]LogInit: FAudioDevice initialized.
+[2018.07.01-18.10.55:113][ 12]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.01-18.10.55:122][ 12]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter6.Level_Chapter6 up for play (max tick rate 0) at 2018.07.01-14.10.55
+[2018.07.01-18.10.55:122][ 12]LogWorld: Bringing up level for play took: 0.008168
+[2018.07.01-18.10.55:125][ 12]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter6 -0.361
+[2018.07.01-18.11.07:107][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-18.11.07:181][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter6" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.01-18.11.07:980][440]LogSavePackage: Save=782.62ms
+[2018.07.01-18.11.07:980][440]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter6A91BEAD74024637909D7389A34152976.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6.umap'
+[2018.07.01-18.11.07:982][440]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6.umap
+[2018.07.01-18.11.08:007][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter6_BuiltData" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6_BuiltData.uasset" SILENT=true
+[2018.07.01-18.11.08:046][440]LogSavePackage: Save=32.92ms
+[2018.07.01-18.11.08:046][440]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/Level_Chapter6_BuiltData9F43B08B48BF7BD24BB876BF861F0F40.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6_BuiltData.uasset'
+[2018.07.01-18.11.08:048][440]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Maps/Level_Chapter6_BuiltData.uasset
+[2018.07.01-18.11.09:811][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-18.11.11:119][627]LogSlate: Window 'Save Content' being destroyed
+[2018.07.01-18.11.11:135][627]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.01-18.11.11:141][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Grass_Inst" FILE="C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_Grass_Inst.uasset" SILENT=true
+[2018.07.01-18.11.11:155][627]LogSavePackage: Save=6.10ms
+[2018.07.01-18.11.11:155][627]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Saved/M_Grass_InstDBD9DC4D447C0E8A3286279C5DDDBD62.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_Grass_Inst.uasset'
+[2018.07.01-18.11.11:158][627]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/UnrealForBeginnersTut/Content/Materials/M_Grass_Inst.uasset
